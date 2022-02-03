@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globe_location_list>
+	<location long="-84.587356"  lat="42.7787"
+			image_path="LAN.jpg"
+			copy_title="Lansing / Capital City Airport"
+			copy_text="‘Am I a carpet?’ LAN seems to ask, ‘Or am I something pretending to be a carpet?’ The answer is clearly 'a carpet', but one can't blame LAN for trying."
+			photo_credit="Rebecca Rose Jacobs"
+			photo_link=""
+			airport_code="LAN"
+			uncarpet="false"
+	/>
+	
+	<location long="-80.927163"  lat="35.208474"
+			image_path="CLT.jpg"
+			copy_title="Charlotte / Douglas International"
+			copy_text="CLT's chaotic splash of colors places it among the finest airport carpets in the world. CLT prompted renowned airport carpet chronicler, Dr. Pepe Rockefeller, to pen his groundbreaking book, 'Concerning the Spiritual in Carpets' (2001) wherein Rockefeller conclusively proved the decisive influence of CLT on the work of the Abstract Expressionist painter, Jackson Pollock, despite not appearing until forty years after the artist's death."
+			photo_credit="Bo Ketner"
+			photo_link=""
+			airport_code="CLT"
+			uncarpet="false"
+	/>
+	
+	<location long="-84.219365"  lat="39.902357"
+			image_path="DAY.jpg"
+			copy_title="James M Cox Dayton International"
+			copy_text="DAY's laid-back Dufy-esque design commemorates the historic glider battles fought high above Ohio in the early 20th Century. Carefully eliding the massive bloodshed and destruction caused by Wilbur and Orville Wright's calamitous falling-out in 1904, DAY suggests that nothing could be finer than watching two aerial navies constructed of spruce and canvas fighting for their lives 10 feet above the ground. DAY is best viewed lying on one's belly imagining one is lying on one's back."
+			photo_credit="Bo Ketner"
+			photo_link=""
+			airport_code="DAY"
+			uncarpet="false"
+	/>
+	
+	<location long="-72"  lat="40.64248"
+			image_path="JFK.jpg"
+			copy_title="John F. Kennedy International"
+			copy_text="Driven by the need to establish a signature identity, many of today's contemporary carpet designers are pushing carpet design in ever more remarkable directions. Take JFK, for example, a carpet as subtle in its form, materiality and psychological suggestions as a view across the Bronx-Queens Expressway at rush hour on a Monday. Radically new, yet superficially the same, the blue-white blocks signify not only blocks, but also the color blue and the color white."
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="JFK"
+			uncarpet="false"
+	/>
+	
+	<location long="-77.17758178710938"  lat="38.892636142310295"
+			image_path="DCA.jpg"
+			copy_title="Ronald Reagan Washington International"
+			copy_text="DCA's design demonstrates how our assumptions about carpets and reality are driven not only by values of objectivity and truth, but also by the requirements of representation. Individuated yet archetypal, DCA defies a semantic perspective and disregards qualitative norms, waiving both the security of the system and the fallacious danger of rebellion. Taking a casual but rigorously considered leap into the void, DCA screams half-heartedly as it plummets towards its apex, limning uncontrollably. "
+			photo_credit="Bo Ketner"
+			photo_link=""
+			airport_code="DCA"
+			uncarpet="false"
+	/>
+	
+	<location long="-73"  lat="40.777774"
+			image_path="LGA.jpg"
+			image_path_02="LGA_02.jpg"
+			copy_title="La Guardia Airport"
+			copy_text="Dim figures struggle to make themselves seen amidst the grand abstraction of LGA. Out of the blue-grey haze indistinct apparitions appear to be marching towards the traveller, forcing us to ask such uncomfortable questions as, ‘What can they want?’ ‘Why are they bending me over?‘ and ‘Was it really necessary to Taser my wife?’"
+			photo_credit="Bo Ketner"
+			photo_link=""
+			airport_code="LGA"
+			uncarpet="false"
+	/>
+	
+	<location long="100.750697"  lat="13.692298"
+			image_path="BKK.jpg"
+			copy_title=" Suvarnabhumi Airport Bangkok, Thailand"
+			copy_text="BKK shamelessly apes the geometric patterns found on airport carpets across the world, but has the gall to reproduce them in the medium of terrazzo. Do the airport authorities really think we can't tell the difference? A large crack in this despicable flooring suggests that even the ground beneath it is repelled."
+			photo_credit="Dominic Elliot"
+			photo_link=""
+			airport_code="BKK"
+			uncarpet="true"
+	/>
+	
+	<location long="101.70461"  lat="2.75414"
+			image_path="KUL.jpg"
+			copy_title="Kuala Lumpur International Airport, Malaysia"
+			copy_text="KUL's bright, fiery design has survived largely thanks to the attentions of the airport's 'bomoh', or witchdoctor. When KUL becomes ripped or torn the bomoh is paged over the airport intercom and asked to perform a 'main puteri', or healing ritual. In Malayasia it is believed that carpets that are in a state of disrepair have been possessed by Ahtran, the raggedy god. Despite these preventative measures, KUL is known as a bad luck carpet and is blamed for the  airport's high rate of flight delays."
+			photo_credit="Dominic Elliot"
+			photo_link=""
+			airport_code="KUL"
+			uncarpet="false"
+	/>
+	
+	
+	<location long="0"  lat="52.154088"
+			image_path="LGW.jpg"
+			copy_title="London Gatwick"
+			copy_text="One of the greatest airport carpets ever manufactured. LGW might seem like a melee of monochrome millipedes squirming across the floor, but it's so much more than that. The subtle interplay of blacks, whites and greys creates a miasmatic effect that reminds us we are about to engage in one of the oldest characteristics of the human - not fight, but flight."
+			photo_credit="Dominic Elliot"
+			photo_link=""
+			airport_code="LGW"
+			uncarpet="false"
+	/>
+	
+	<location long="-0.453602"  lat="51.469963"
+			image_path="LHR.jpg"
+			copy_title="London Heathrow"
+			copy_text="With its cheap, gray, polypropylene yarns entangled with a rich, jute weft, LHR could be taken as a critique of the dead white forefathers of British carpeting. More realistically its differing threads suggest London's role as a business and cultural centre, being both inclusive and exclusive at the same time. The hints of gum, squatting like black cancerous growths on a psychedelic coral reef, signify both the immutability of international travel and also, perhaps, the rebirth offered carpets by ionic cleansing."
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="LHR"
+			uncarpet="false"
+	/>
+	
+	<location long="74.5147705078125"  lat="42.90111863978984"
+			image_path="FRU.jpg"
+			copy_title="Manas International, Bishkek, Krygyzstan"
+			copy_text="The forbidding two-tone effect of FRU's airport flooring triumphantly references the Kara-Kyrgyz Autonomous Oblast of 1924-25. This was one of the many steps Krygyzstan took on its way to becoming a fully-fledged republic of the Soviet Union in 1936. It is estimated that approximately 10,000 slave laborers died during the construction of this floor."
+			photo_credit="Dominic Elliot"
+			photo_link=""
+			airport_code="FRU"
+			uncarpet="true"
+	/>
+	
+	<location long="32.756080627441406"  lat="68.81716774830387"
+			image_path="MMK.jpg"
+			copy_title="Murmansk Airport, Russia"
+			copy_text="As spare and unforgiving as the icy tundra that surrounds it, the carpet of  MMK clearly alludes to the carpets of Vladivostock International Airport (VVO), which Aleksandr Solzhenitsyn described as 'wall to wall.' Is this the work of Pushkin and Son, who aggressively carpeted the Moscow subway system in 1954? It seems unlikely, lacking as it does their ambiguity, figurative suggestiveness, and high loom count. The travel writer Bruce Chatwin declared that upon viewing the endless lushness of MMK's carpet he was uncertain whether he was walking on the carpet, or whether the carpet ‘was walking on me.’"
+			photo_credit="Dominic Elliot"
+			photo_link=""
+			airport_code="MMK"
+			uncarpet="false"
+	/>
+	
+	<location long="-4.62491"  lat="54.082946"
+			image_path="IOM.jpg"
+			copy_title="Isle of Man Airport"
+			copy_text="The three-legged triskele-infused design of IOM's carpet hearkens to the ancient beliefs of this isolated island's inhabitants. When IOM first opened in 1929, superstitious islanders unfamiliar with modern technology believed that propellers were magical legs that literally ran the aircraft into the air. This belief still persists to this day, as does the islanders' belief that nothing rhymes with the word 'spoon'."
+			photo_credit="Hugh Dancy"
+			photo_link=""
+			airport_code="IOM"
+			uncarpet="false"
+	/>
+	
+	<location long="-99.13684844970703"  lat="19.42903902895618"
+			image_path="MEX.jpg"
+			copy_title="Mexico City International"
+			copy_text="The carpet of MEX is unremarkable save for one important feature: the carpet changes color every other year. Since its installation in 1987, its colors have included a midnight blue, a dull grey, a lime green, and a hot pink. After years of study Mexican scientists officially declared MEX a miracle, and attempts have since been made to have the carpet canonized."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="MEX"
+			uncarpet="false"
+	/>
+	
+	<location long="-70.69929599761963"  lat="-33.5501934872547"
+			image_path="SCL.jpg"
+			copy_title="Aeropuerto Internacional de Santiago, Chile"
+			copy_text="The carpet of SCL commemorates the Battle of the Maule, the infamous clash between the Mapuche people and the Incas circa 1471 AD. Although most historians suggest that the battle was fought on land, the carpet at SCL bravely hypothesizes that it was fought in the air, in spacecraft not dissimilar to those seen in the 'Star Wars' films and the 'Asteroids' video game. The carpet makes no reference as to which side flew which device, or who was responsible for the giant floating @ signs that seem to have appeared throughout the battle, but it looks as though it was one hell of fight."
+			photo_credit="Elsa Gorter"
+			photo_link=""
+			airport_code="SCL"
+			uncarpet="false"
+	/>
+	
+	<location long="151.1686134338379"  lat="-33.937520995593175"
+			image_path="SNY.jpg"
+			copy_title="Sydney Airport"
+			copy_text="Warning! This carpet has a highly toxic weft and is known to have poisoned travellers who have casually walked upon it in bare feet. Symptoms usually develop within 20 minutes to 3 hours and include tingling and numbness about the feet, ankles, knees and hips. These symptoms may be followed by nausea, malaise, metallic taste, intense perspiration, and trismus. Poisonous carpets were unknown in Australia until 1935 and the introduction of unregulated weaving techniques imported from Central America. Travelers should be aware that carpet toxicity at SNY diminishes towards Terminal 3."
+			photo_credit="Sarah Gilbert"
+			photo_link=""
+			airport_code="SNY"
+			uncarpet="false"
+	/>
+	
+	<location long="-81.204415"  lat="32.128613"
+			image_path="SAV.jpg"
+			copy_title="Savannah / Hilton Head Airport"
+			copy_text="The work of blind carpet artist Theo T. Tankersley, SAV is an example of one man's grit and determination against insuperable odds. Blinded in a duel when he was only eight years old, Tankersley dedicated the rest of his life to painting what he could see, or rather what he couldn't. He struggled with oils and watercolors before an accidental stumble at John F. Kennedy International Airport in 1972 brought his hands into contact with a soft, yet firm, nylon custom loop pile carpet. He had discovered what would be his preferred medium for the rest of his life and SAV remains the finest visual approximation of blindness that has yet been created in any of the arts."
+			photo_credit="Carl Wilkinson"
+			photo_link=""
+			airport_code="SAV"
+			uncarpet="false"
+	/>
+	
+	<location long="-68.828184"  lat="44.807446"
+			image_path="BGR.jpg"
+			copy_title="Bangor International Airport, Maine"
+			copy_text="One of Steven Freeling's greatest carpets (see BHM for more info on Freeling) BGR is known by airport enthusiasts around the world as the 'Carpet of God' due to its use of recurring logarithmic spirals that converge on a never reachable point known by geometrists as the 'Eye of God'. One of the best maintained carpets in the world, BGR's worn and ripped areas are always quickly replaced by a crack team of carpet-layers, bringing to mind the Dutch mathematician, Daniel Bernoulli's epitaph, 'Eadem Mutata Resurgo' - 'Changed and yet the same, I rise again.'"
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="BGR"
+			uncarpet="false"
+	/>
+	
+	<location long="-78.730752"  lat="42.933922"
+			image_path="BUF.jpg"
+			copy_title="Buffalo Niagara International"
+			copy_text="Local legend has it that hidden in the pattern of the carpet at BUF is a map displaying the lost treasure of Millard Fillmore, 13th President of the United States. Fillmore was descended from pirates - his great-grandfather had been press-ganged into the service of the infamous peg-leg Captain John Philips - and historians believe that a piratical booty-lust was  passed down to him from generation to generation. Fillmore's inordinate love of parrots was seen as added proof of this theory. BUF's carpet design has been copied exactly from the carpet found in Fillmore's Buffalo residence at the time of his death in the vain hope that some passing traveler might uncover what Fillmore scholars have not been able to for 130 years. "
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="BUF"
+			uncarpet="false"
+	/>
+	
+	<location long="-64.682165"  lat="32.36522"
+			image_path="BDA.jpg"
+			copy_title="L.F.Wade International, Bermuda"
+			copy_text="A three-frame Jacquard Wilton with a one hundred percent B.C.F. Nylon BASF-Zeftron 2000 ZX yarn, the carpet of BDA both comforts and interrogates the identity of the weary traveler. While its contoured contusions ruthlessly challenge the status quo, its tropical flourishes and use of cerulean blue also seems to embrace it. The result is an exploration of the relationship between artist, subject, and carpet. ‘You stand on me,’ it seems to say, ‘Why?’"
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="BDA"
+			uncarpet="false"
+	/>
+	
+	<location long="-75.719225"  lat="36.069667"
+			image_path="KHK.jpg"
+			copy_title="Kitty Hawk"
+			copy_text="The first airport carpet, of which this is the last surviving swatch, was the work of Reuchlin Wright, older brother of Orville and Wilbur Wright. Reuchlin shared in his younger brothers' sense of mission, but was of a nervous disposition and suffered greatly from vertigo. He thus channeled his enthusiasm into creating ‘a patchwork quilt of wonderful color’ to lay beneath his brothers' feet on the sand dunes at Kitty Hawk. Despite his ground-breaking ground-covering work, Reuchlin Wright never patented his invention, instead bequeathing it to posterity ‘so that mankind, wherever he may be, need not fear the awful sensation of sand pushing up between his toes as he ascends into his flying machine.’"
+			photo_credit="Pepe Rockefeller"
+			photo_link=""
+			airport_code="KHK"
+			uncarpet="false"
+	/>
+	
+	<location long="14.291945"  lat="40.888332"
+			image_path="NAP.jpg"
+			copy_title="Naples International Airport"
+			copy_text="It should come as no surprise that the country that invented the cold, hard horror that is terrazzo should be so willing to cover its airports' floors with it. So shocked was the carpeteer who sent in this picture at not being greeted by a comfortable plush carpet upon his arrival in Naples that he appears to have tried to destroy the flooring with a laser."
+			photo_credit="Dominic Elliot"
+			photo_link=""
+			airport_code="NAP"
+			uncarpet="true"
+	/>
+	
+	
+	<location long="72.793278"  lat="40.609"
+			image_path="OSS.jpg"
+			copy_title="Osh Airport, Krygyzstan"
+			copy_text="‘Osh!‘ is probably the sound most travelers make when confronted by OSS's unwelcoming terrazzo. It is a shame that Krygyzstan's second city has not looked to its heritage as the central hub of the Silk Road and carpeted its airport in a thick damask weave. If that were the case arriving travelers might then let out cries of ‘Gosh!’"
+			photo_credit="Dominic Elliot"
+			photo_link=""
+			airport_code="OSS"
+			uncarpet="true"
+	/>
+	
+		<location long="12.255103"  lat="41.80258"
+			image_path="FCO.jpg"
+			copy_title="Leonardo da Vinci-Fiumicino Airport, Rome"
+			copy_text="Occasionally an airport carpet can be found that resists acclaim. FCO is one such example. It would be a disservice to both the reader and the other carpets on this website to pretend FCO was anything other than a bad carpet. Lacking in technical accomplishment or artistic credibility, FCO is a disgrace, particularly for an airport named after Leonardo Da Vinci - artist and inventor of flying machines. FCO further highlights the depths Italian airport authorities will go to promote their local terrazzo makers."
+			photo_credit="Dominic Elliot"
+			photo_link=""
+			airport_code="FCO"
+			uncarpet="true"
+	/>
+	
+	<location long="-77.447712"  lat="38.953381"
+			image_path="IAD.jpg"
+			copy_title="Washington Dulles International Airport"
+			copy_text="For the last fifteen years IAD has been caught up in an aesthetic struggle with its geographical rival, DCA. In an attempt to raise their traffic, each airport has fallen back on carpets that are aesthetically and theoretically complex. While DCA brilliantly explores the limits of self-representation, IAD forces us to consider the multiplicity of all other objects. While it ultimately resists interpretation as well as it does stains, IAD has become the airport of choice for the Beltway carpeting set, particularly the post-Lacanian Republican caucus."
+			photo_credit="Sarah Dancy"
+			photo_link=""
+			airport_code="IAD"
+			uncarpet="false"
+	/>
+	
+	<location long="-97.668146"  lat="30.202633"
+			image_path="AUS.jpg"
+			copy_title="Austin-Bergstrom International, Austin, Texas"
+			copy_text="Author John Steinbeck had this to say about airport carpets: ‘It's been said that the carpet is a state of mind, but I think it is more than that. It is a mystique closely approximating a religion.’ This is certainly true to the extent that people either love AUS or hate it. Famed test pilot Chuck Yeager once refused to land there, telling a bemused air traffic controller, ‘I can't stand it's wafty, wavy lines.’ However most people have the opposite reaction, as is evidenced by the many signs in the airport threatening arrest to anyone caught kissing it."
+			photo_credit="Sarah Dancy"
+			photo_link=""
+			airport_code="AUS"
+			uncarpet="false"
+	/>
+	
+	<location long="77.096686"  lat="28.556252"
+			image_path="DEL.jpg"
+			copy_title="Indira Gandhi International Airport, Delhi"
+			copy_text="India's terrible poverty is nowhere more apparent than in DEL, where the floor is covered by cold, unyielding stone. With so many airports in the developed world so richly carpeted it is hoped that some offcuts or overruns might be donated to cover the horrors of DEL's current floor.   UPDATE: Following Carpets for Airports' campaign to carpet DEL's terrible flooring, word has it that a new carpet has been installed! We look forward to one of our carpeteers sending in visual corroboration of our victory!"
+			photo_credit="Kate Dancy"
+			photo_link=""
+			airport_code="DEL"
+			uncarpet="true"
+	/>
+	
+	<location long="-6.238903"  lat="53.426078"
+			image_path="DUB.jpg"
+			copy_title="Dublin Airport, Ireland"
+			copy_text="What are we to make of DUB? Strangely reminiscent of LGA, this similarity might refer to the strong links between Ireland and America. Then again it could refer to a deal done out of the back of a truck in the dead of night on an unmarked country road deep in county Fingal."
+			photo_credit="Hugh Dancy"
+			photo_link=""
+			airport_code="DUB"
+			uncarpet="false"
+	/>
+	
+	<location long="-118.408294"  lat="33.944066"
+			image_path="LAX.jpg"
+			copy_title="Los Angeles International"
+			copy_text="In science-fiction movies, when a large spaceship is boldly going where no man has gone before, it almost always come upon an alien cloud entity, or radioactive gas cloud, that prevents its systems from working properly. LAX is that alien gas cloud. A serene storm of blues it entices the weary traveler to look deep into its loom, to lose oneself within the weft and warp, until he or she realises - too late! - that their gate has closed and they've missed their flight."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="LAX"
+			uncarpet="false"
+	/>
+	
+	<location long="-122.592121"  lat="45.58961"
+			image_path="PDX.jpg"
+			copy_title="Portland, Oregon"
+			copy_text="Neo-Suprematist paean to Russian artist Kazimir Malevich, or retro-pixellated tribute to 70s arcade game 'Pong'? PDX encompasses both high and low cultures seamlessly, albeit with visible seams. Certainly it seems to echo Malevich's statement that carpets should be made for carpets' sake alone, regardless of the pleasure or comfort they create. ‘Airport carpets do not need us and have never needed us since the stars first shone in the sky,’ stated Malevich, shortly before bursting into tears."
+			photo_credit="Andrea Bakacs"
+			photo_link="www.andreabakacs.com"
+			airport_code="PDX"
+			uncarpet="false"
+	/>
+	
+	<!-- new additions june 09 -->
+	
+	<location long="-89.981659"  lat="35.044702"
+			image_path="MEM.jpg"
+			copy_title="Memphis International Airport"
+			copy_text="In the 1991 song 'Walking in Memphis', singer-songwriter Marc Cohn famously related a heartbreaking traveler's tale in which he ‘put on my blue suede shoes’ and ‘boarded the plane’ and ended up walking in Memphis where he found himself ‘as blue as a boy can be’. Mr. Cohn's bad mood can perhaps be explained by the carpet beneath his nattily shod feet. MEM is a serious carpet, a probing carpet, a carpet that makes the viewer question their most deeply-held assumptions, not just of carpeting but of existence as a whole. Mr. Cohn never stood a chance."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="MEM"
+			uncarpet="false"
+	/>
+	
+	<location long="-93.203111"  lat="44.881234"
+			image_path="MSP.jpg"
+			copy_title="Minneapolis St Paul International Airport"
+			copy_text="Some airport carpets can be easily understood, and to begin with MSP appears equally facile. There are the faux-naif depictions of airplanes, the directional vectors, and the wavy contour lines - all popular airport carpet motifs. But what on earth are we to make of the legless teddy bears that are scattered across MSP's bulk? There are no references to teddy bear mutilation in  Minneapolis' history, nor any mention of legless bears in the local guide books. As such MSP remains an enigma, a carpet that will surely be puzzled over for centuries as people try to understand the significance of these Unidentified Furry Objects."
+			photo_credit="Sarah Dancy"
+			photo_link=""
+			airport_code="MSP"
+			uncarpet="false"
+	/>
+	
+	<location long="-111.980673"  lat="40.785596"
+			image_path="SLC.jpg"
+			copy_title="Salt Lake City International Airport"
+			copy_text="It is a curious tenet of the Mormon faith that the rectangle holds an almost divine stature within its teachings. No-one, however, is entirely sure why this is. Some point to the fact that by the time Joseph Smith originated the movement in 1820, all the good shapes - the crescent, the cross, the wheel - had already been taken. Whatever the case, SLC wears its holy symbol proudly and with a certain panache."
+			photo_credit="Hugh Dancy"
+			photo_link=""
+			airport_code="SLC"
+			uncarpet="false"
+	/>
+	
+	<location long="-104.682105"  lat="39.878664"
+			image_path="DEN.jpg"
+			copy_title="Denver International Airport"
+			copy_text="For many years Denver International Airport was home to one of the most remarkable airport carpets ever created - a portrayal of man's ascent from single-celled organism through fish and ape to homo sapiens. It even dared look into the future where - around Gate 26 or so - it posited mankind as a fleet of interstellar brain-ships, travelling the galaxy in seach of  zinc. However a politically influential Denver church objected to the carpet's portrayal of evolution, and the carpet was unceremoniously removed in 2001. It was replaced by DEN's present featureless carpet which, as one proponent suggested, ‘does not distract us from raising our eyes to Heaven.’"
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="DEN"
+			uncarpet="false"
+	/>
+	
+	<location long="-95.350611"  lat="29.986862"
+			image_path="IAH.jpg"
+			copy_title="George Bush Intercontinental Airport"
+			copy_text="Although named after the 41st President of the United States of America, this airport's three letter signifier - IAH - is also the name of the Egyptian god of the moon and sea, Iah. No-one is quite sure which dedicatee holds pre-eminence. While some carpeting scholars have pointed out the similarity between IAH and the favorite pinstripe suits of George H.W. Bush, others point to the fact that flights to the airport invariably double in frequency come the full moon."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="IAH"
+			uncarpet="false"
+	/>
+	
+	<location long="-87.907736"  lat="41.981211"
+			image_path="ORD.jpg"
+			copy_title="O'Hare International Airport"
+			copy_text="ORD is unique amongst airport carpets in that its 100% nylon panels are 'cut on the bias' as opposed to 'on-grain'. This allows the carpet to cling to the sumptuous curves of the airport's floor, accentuating its lines, and leading more than one traveler to propose marriage to it."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="ORD"
+			uncarpet="false"
+	/>
+	
+	<location long="8.5619"  lat="47.4504"
+			image_path="ZRH.jpg"
+			copy_title="Zurich Airport"
+			copy_text="Triangles are to airport carpets as mustard is to a ham sandwich - indispensable and delicious. Yet while every carpet manufacturer would agree that triangles are a geometric cornerstone to airport carpet patterning, few know the reasons why. Some point to the fact that the Wright brothers were Freemasons and that the triangle reflected the Masonic square and compass. Others suggest that triangles are simply the easiest shape to create on a Milliken Spectronic Broadloom Jet Spray Printer. The truth will probably never be known."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="ZRH"
+			uncarpet="false"
+	/>
+	
+	<location long="-90.365773"  lat="38.742185"
+			image_path="STL.jpg"
+			copy_title="Lambert-St Louis International Airport"
+			copy_text="Triangles again. Or, as textile geometrician Sigismund Haffer has provocatively suggested, half-squares."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="STL"
+			uncarpet="false"
+	/>
+	
+	<location long="-86.77911758422852"  lat="33.560421881339344"
+			image_path="BHM.jpg"
+			copy_title="Birmingham-Shuttlesworth International Airport"
+			copy_text="Steven Freeling was one of the brightest and best carpet designers of the early 1980s. His designs broke new ground in their use of 18-foot repeats and Italian-style faux finishing. His innate artistic genius allowed carpet manufacturers to overlook his somewhat eccentric character. Never quite happy with his creations, Freeling labeled even such acknowledged masterworks of his as BGR, ‘tired’. In an attempt to push the boundaries of carpet design to the maximum he ended up gazing at the static on television screens for hours on end, jotting down the designs he thought he saw amidst the white noise. Soon he began to believe that the television was speaking to him, whispering of patterns undreamed of by man. On July 3rd, 1989, after an uninterrupted 76-hour session in front of the static, something snapped inside Steven Freeling's brain. He was found naked on his living room floor, his head thrust through the television screen. He had been electrocuted, but not before he had managed to program his dye-injection machines with the pattern for BHM. It remains the strangest of carpets, its pattern a seemingly ever-changing swirl of indistinct shapes perpetually slipping out of focus. Rumours that BHM was installed on top of an old Indian burial ground have been repeatedly denied."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="BHM"
+			uncarpet="false"
+	/>
+	
+	<!-- 32 -->
+	
+	<location long="-75.245218"  lat="39.87399"
+			image_path="PHL.jpg"
+			copy_title="Philadelphia International Airport"
+			copy_text="While PHL bears a strong resemblance to the notorious 'alien gas-cloud' design of LAX, it is in fact quite different. Just follow one of the spirals deep into the pattern and lose oneself in the inhuman vaporous miasma. They're not paging you, don't worry. Just keep looking. Looking. Looking."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="PHL"
+			uncarpet="false"
+	/>
+	
+	
+	<location long="-94.709342"  lat="39.302522"
+			image_path="MCI.jpg"
+			copy_title="Kansas City International Airport"
+			copy_text="According to Jerry Leiber and Mike Stoller's song Kansas City, the city has ‘got a crazy way of loving.’ This may be true, but its airport carpeting is defiantly well-hinged."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="MCI"
+			uncarpet="false"
+	/>
+	
+	
+	<location long="-155.048538"  lat="19.718313"
+			image_path="ITO.jpg"
+			copy_title="Hilo International Airport"
+			copy_text="Designed by well known contemporary artist Gerhard Richter during his 'Debt' period, ITO consists of three layers of carpet - blue, brown, white - laid one on top of the other which Richter then obliterated using heavy roller suitcases and stiletto heels. The three layers of carpet thus combined to create structures of spatial impressions without consolidating into a recognizable object, although Richter has admitted that he was trying for a puppy."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="ITO"
+			uncarpet="false"
+	/>
+	
+	<location long="-84.444032"  lat="33.639975"
+			image_path="ATL.jpg"
+			copy_title="Hartsfield-Jackson Atlanta International Airport"
+			copy_text="A special carpet was needed for the world's busiest airport, which accomodates almost 1 million flights and over 90 million passengers a year. Woven out of a tungsten-teflon hybrid, the carpet at ATL is said to be one of the strongest substances known to man. You can try burning it, cutting it, or shooting it, but you won't even make a mark. This exact carpet is said to line the floor of the nuclear bunker at the White House, and offcuts of it have been used inside pacemakers and deep-sea diving bells."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="ATL"
+			uncarpet="false"
+	/>
+	
+	<location long="-112.007237"  lat="33.432323"
+			image_path="PHX.jpg"
+			copy_title="Phoenix Sky Harbor International Airport"
+			copy_text="The treacherous vertical wind vortexes that once made PHX one of the most inhospitable airports in the world are here celebrated upon its carpet. Approximately sixty aircraft have been lost since the airport first opened in 1935. Planes kept coming, however, drawn both by the challenge of trying to land in one piece, and by Phoenix's excellent Mexican food. In 1985 the vortexes were bricked up and finally brought under control. Their harnessed energy now provides wind power for much of the city."
+			photo_credit="Kevin Miyazaki"
+			photo_link="www.kevinmiyazaki.com"
+			airport_code="PHX"
+			uncarpet="false"
+			
+	/>
+	
+	<location long="-80.1"  lat="25"
+			image_path="FLL.jpg"
+			copy_title="Fort Lauderdale-Hollywood International Airport"
+			copy_text="While most carpets are abstract and geometrical in design, FLL bucks the trend with its flowers and butterflies. Do not be fooled. This representational take is still rooted firmly in abstract airport carpeting tradition. Witness how the butterflies mimic the ever-present triangles and directional vectors so common in most airport carpets. Also note the way the flowers and underlying lily pattern riff on the vortexes and lined grids so prevalent in abstract geometric designs. Unlike most other art mediums, airport carpeting's avant-garde is strictly representational. Although, as FLL suggests, carpets may never entirely rid themselves of their independence from worldly visual references."
+			photo_credit="Andrea Bakacs"
+			photo_link="www.andreabakacs.com"
+			airport_code="FLL"
+			uncarpet="false"
+	/>
+	
+	<location long="-96"  lat="32.82579787608655"
+			image_path="DAL.jpg"
+			copy_title="Dallas Love Field "
+			copy_text="Well DAL, you probably think you're pretty cute with your star made out of hearts (or is it hearts made out of a star?). Yes, I bet you think you're very fresh and wholesome, very patriotic and sunny, but to me you're nothing but a terrazzo whore thumbing your nose at the great heritage of airport carpeting. If I ever see you again...wait...what are you doing? Are you crying? No, no, no of course I didn't mean it. I just said it. Please don't cry. I don't know why I said it, I just did. You know I'm sorry. How sorry? Really very sorry. Prove it? How can I prove it? No I will not do that. Absolutely not. Under no circumstances. Okay. Okay, alright, i'll do it."
+			photo_credit="Joel Kaufmann"
+			photo_link="www.joelkaufmann.com"
+			airport_code="DAL"
+			uncarpet="true"
+	/>
+	
+	<location long="31.40096426010132"  lat="30.111832725416818"
+			image_path="CAI.jpg"
+			copy_title="Cairo International Airport"
+			copy_text="Some of the greatest wonders of the world can be found in Cairo - the Pyramids, the Sphinx, Saladin's Citadel, Helipopolis - and yet such epic pieces of architecture cannot help but be lessened by the appalling flooring of CAI, an amalgam of terrazzos that makes one think less of mankind's eternal achievements than of his enduring bad taste."
+			photo_credit="Joel Kaufmann"
+			photo_link="www.joelkaufmann.com"
+			airport_code="CAI"
+			uncarpet="false"
+	/>
+	
+	<location long="-97"  lat="32.896208"
+			image_path="DFW.jpg"
+			copy_title="Dallas-Fort Worth International Airport"
+			copy_text="While DFW bears a striking resemblance to the 'alien gas cloud' designs of LAX and PHL, it really is quite different. Honestly. Just take a quick peek at it. Take your time. Nobody's calling you to board. Take a long look at it."
+			photo_credit="Joel Kaufmann"
+			photo_link="www.joelkaufmann.com"
+			airport_code="DFW"
+			uncarpet="false"
+	/>
+	
+	<location long="32.705912590026855"  lat="25.668799003438654"
+			image_path="LUX.jpg"
+			copy_title="Luxor International Airport"
+			copy_text="LXR's cold, hard, marble is fitting in so much as it matches the demeanor of the airport authorities who routinely harass airport carpeteers for taking pictures of it. Coming from a region which saw the birth of carpetry, such bullying tactics no doubt stem from the immense shame they feel at their inadequate floor covering."
+			photo_credit="Joel Kaufmann"
+			photo_link="www.joelkaufmann.com"
+			airport_code="LXR"
+			uncarpet="true"
+	/>
+	
+	<location long="-79.495318"  lat="9.030509"
+			image_path="PTY.jpg"
+			copy_title="Tocumen International Airport"
+			copy_text="According to the Panama City airport authority, and verified by the American Academy of Neurology, PTY is your brain on drugs."
+			photo_credit="Elsa Gorter"
+			photo_link=""
+			airport_code="PTY"
+			uncarpet="false"
+	/>
+	
+	<location long="-78.68339538574219"  lat="26.56734120289038"
+			image_path="GBI.jpg"
+			copy_title="Grand Bahama Island Airport"
+			copy_text="As befits a holiday destination, GBI is inspired by the boardgame 'Twister', although it would be a brave soul who would want to put their hands on this grotesque linoleum floor."
+			photo_credit="Sarah Flack"
+			photo_link=""
+			airport_code="GBI"
+			uncarpet="true"
+	/>
+	
+	
+	<location long="140.38930892944336"  lat="35.773570959585236"
+			image_path="NRT.jpg"
+			copy_title="Narita International Airport"
+			copy_text="Carpet burn originated in Japan during the Kamakura shogunate as a response to the sea-borne invasions of the Mongols under their leader, Kublai Khan. Captured Mongols had their hands and feet tied together and were dragged across a large carpet in order to burn out the 'bad worm' or 'mushi'. In actuality the punishment would continue until much of the skin and tendons of the victim had been 'burned’ off on the coarse horsehair and rope weave of the carpet. The victim usually died of shock and the carpet, dripping in blood and gore, would then be hung on a frame overlooking the sea as a warning to future invaders. Just remember that next time you look at NRT's neat, some might say, placid, pattern."
+			photo_credit="Carola Long"
+			photo_link=""
+			airport_code="NRT"
+			uncarpet="false"
+	/>
+	
+	
+	<location long="79.87233817577362"  lat="6.927582428706082"
+			image_path="CMB.jpg"
+			copy_title="Bandaranaike International Airport"
+			copy_text="CMB was originally a needlefelt hair yarn carpet tile, but upon installation objections were raised by the Buddhist populace to its titillating long fibers. It was thus ceremonially cropped by a team of monks. A chemical was also originally incorporated into CMB that reduced odour and bacteria, but this too was objected to - the Buddhist proscription not to harm any living creature extending towards staphylococcus epidermidis -  and thus the carpet had to be thoroughly washed clean by another team of monks. CMB has now cost upward of $25 million dollars, and a police investigation has begun into the relation between the Sri Lankan air traffic authority and Buddhist monk unions. Rumors of a shift to terrazzo have been circling Colombo for some time, along with the possible hiring of a Zoroastrian airport manager."
+			photo_credit="Christoph Hargreaves-Allen"
+			photo_link=""
+			airport_code="CMB"
+			uncarpet="false"
+	/>
+	
+	<location long="-5.893349647521973"  lat="37.429751039157786"
+			image_path="SVQ.jpg"
+			copy_title="Seville Airport"
+			copy_text="Ever since the goring of sixteen passengers at the Air Iberia terminal in 2004, bull-fighting has been banned from Seville's main airport. Airport authorities claimed that the frequent replacement of carpet tiles due to blood stains and animal faeces made it impractical to keep the fights going. Local enthusiasts countered that the bulls were the main reason why Seville Airport had the fewest delays of any airport in Europe. Terrazzo flooring was suggested as a compromise, but it was too slippery and the bulls could often be seen skidding into the luggage carousels."
+			photo_credit="Alexander Fiske-Harrison"
+			photo_link=""
+			airport_code="SVQ"
+			uncarpet="true"
+	/>
+	
+	
+	<location long="11.202964782714844"  lat="43.80616372314637"
+			image_path="FLR.jpg"
+			copy_title="Amerigo Vespucci Airport, Florence"
+			copy_text="The Italian conspiracy against carpeted airport floors continues at FLR. What are we to make of the Italians? How can a country that is renowned for its love of the sensual pleasures prove so lacking when it comes to airport carpeting? Has it got something to do with the mother thing?"
+			photo_credit="Hugh Dancy"
+			photo_link=""
+			airport_code="FLR"
+			uncarpet="true"
+	/>
+	
+	
+	<location long="-73.75509"  lat="42.65172"
+			image_path="ALB.jpg"
+			copy_title="Albany International Airport"
+			copy_text="ALB is one of the few carpets ever to have undergone an exorcism. In the Autumn of 1982 obscene words began to appear in the carpet's pattern. When this was disregarded as a trick of the eye the carpet began to move. It surreptitiously covered the airport's escalators and, on one occasion, made a mad dash for freedom across the runway. The famed priest and interior decorator Father Joseph Jessup was asked to intervene. After thoroughly steam cleaning the carpet with holy water Jessup declared it to be possessed by Azazel, chief of the goat demons, who had escaped from the nearby state legislature disgusted at the ungodly practices taking place there. Father Jessup brokered a deal between Azazel and the airport authority, resulting in the blood sacrifice of one goat, or junior congressman, on the summer solstice each year. The event has since become something of a tourist attraction."
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="ALB"
+			uncarpet="false"
+	/>
+	
+	
+	<location long="-71.013505"  lat="42.361398"
+			image_path="BOS.jpg"
+			copy_title="General Edward Lawrence Logan International Airport"
+			copy_text="See EWR."
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="BOS"
+			uncarpet="false"
+	/>
+	
+	
+	<location long="-77.46674537658691"  lat="25.0532569735961"
+			image_path="NAS.jpg"
+			copy_title="Lynden Pindling International Airport"
+			copy_text="Lynden Pindling International Airport. Go on, say it. ‘Lynden Pindling’. ‘Lynden Pindling’. It's like a zen mantra, or like water flowing over rocks, or like a warm azure sea filled with turtles and tropical fish. In short, like NAS itself."
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="NAS"
+			uncarpet="false"
+	/>
+	
+	
+	<location long="-74.17821"  lat="40.68987"
+			image_path="EWR.jpg"
+			copy_title="Newark Liberty International Airport"
+			copy_text="See BOS."
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="EWR"
+			uncarpet="false"
+	/>
+	
+	
+	<location long="7.215262"  lat="43.6596"
+			image_path="NCE.jpg"
+			copy_title="Nice Côte d'Azur Airport"
+			copy_text="From 'Ode to NCE' by Sebastian Trumplepewter:‘Where are the carpets of the Cote D'Azur, / That would stop our feet from becoming ice? / My delicate toes cannot endure / A carpetless floor is not very Nice.’"
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="NCE"
+			uncarpet="true"
+	/>
+	
+	<location long="-121.590897"  lat="38.682968"
+			image_path="SMF.jpg"
+			copy_title="Sacramento International Airport"
+			copy_text="Don't worry, you're not still airborne and no, you haven't been zapped by Professor Kraken's Ginormo gun. The fact is you're walking on SMF, a photographic aerial view of the Sacramento River woven into a carpet by the artist Seyed Alevi. Either that or Professor Kraken has gone and shrunk the world again."
+			photo_credit="Benet Wilson"
+			photo_link="www.aviationweek.com/biz"
+			airport_code="SMF"
+			uncarpet="false"
+	/>
+	
+	
+	<location long="8.795091"  lat="41.920179"
+			image_path="AJA.jpg"
+			copy_title="Ajaccio-Campo dell'Oro Airport"
+			copy_text="One of the few non-carpeted floors to evoke complex emotion, AJA does so through an interrogation of the mechanics of representation. The black block acts as a negative 'tabula rasa', suggesting the multiplicity of cultural traditions and demonstrating how our assumptions about science and reality are driven not only by the values of objectivity and truth, but also by the principles of subjectivity and lies. It has been described as ‘autonomous, convincing and relevant’ as well as ‘little black and white blocks all stacked up one on top of the other.’"
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="AJA"
+			uncarpet="true"
+	/>
+	<!-- end 63 -->
+	
+	<location long="116.39795"  lat="39.90817"
+			image_path="PEK.jpg"
+			copy_title="Beijing Capital International Airport"
+			copy_text="At the end of 1965, Mao Tse Tung decreed that carpeting was against the intentions of the revolution and decreed that all airports should be stripped of their imperial floor coverings. Only Beijing Airport was spared by the precocious intercession of Liu Tseng, a 56-year old baggage handler. Hearing of the decree, and with the Red Guard marching to the airport to wreak devastation on the carpet, Tseng called on his past experience as a professor of textiles at Peking University and hurriedly wove the face of Mao into the carpet using a ball of silk he found in lost property. When the Red Guards arrived they were stopped in their tracks - they could not destroy an image of the Great Mao. Beijing Airport was thus left unmolested and Liu Tseng was declared a hero of the revolution. Five months later he was declared an enemy of the people and shot. His carpet was destroyed in the Gang of Five purges of 1976. Beijing airport now boasts its capitalist credentials with a a broadloom manufactured by Morgenstern and Fray, the famed Danish carpet manufacturers, that depicts very little indeed."
+			photo_credit="Daryll Cooke"
+			photo_link=""
+			airport_code="PEK"
+			uncarpet="false"
+	
+	/>
+		
+		
+	<location long="114.10950"  lat="22.39643"
+			image_path="HKG.jpg"
+			copy_title="Hong Kong International Airport"
+			copy_text="Like a stained glass window of the ground, HKG offers a transcendent spectacle for travellers lucky enough to walk upon its hallowed weave. A custom woven Axminster made in the United Kingdom, HKG draws on all that country's gothic and gothic revival history, and seems to exude a holy light from its colorful ornamentation. Expressive, almost calligraphic linework turns HKG into is a quasi-religious experience. No reproduction can truly capture the subtlety of touch and alertness to the act of carpeting seen here."
+			photo_credit="Daryll Cooke"
+			photo_link=""
+			airport_code="HKG"
+			uncarpet="false"
+
+	/>
+		
+	
+	<location long="108.94427"  lat="34.26488"
+			image_path="XIY.jpg"
+			copy_title="Xian Xianyang International Airport"
+			copy_text="XIY's fishnet, chain-mesh design embraces the past, kisses the present, and gyrates passionately with the future. Inspired by a series of small private airport carpets in Germany, XIY is one of the most lascivious of underfootings, its passionate purples relentlessly teasing, urging, and licking at travelers' feet."
+			photo_credit="Daryll Cooke"
+			photo_link=""
+			airport_code="XIY"
+			uncarpet="false"
+	
+	/>
+		
+		
+	<location long=" -80.2"  lat="26"
+			image_path="MIA.jpg"
+			copy_title="Miami International Airport"
+			copy_text="MIA was believed to have been the creation of Stanley Farquhar, a 56 year old carpet design professional from Tweed in England. With its brave looming and reapplied synthetic backing, it certainly seemed to be the work of an expert in his trade. In fact MIA was created by Nancy Bogota, a fifth grader from New Mexico who had pretended to be Farquhar in e-mails and telephone calls with the airport authority. When the brownian circles of MIA were awarded the 2003 Carpet and Rug Institute's 'Airport Carpet of the Year' award its creator's true identity was revealed, causing numerous red faces amongst the critics, most noticeably Clemence Blitzstein, who had declared the carpet, ‘the work of an alcoholic, twice-divorced superman.’"
+			photo_credit="Daryll Cooke"
+			photo_link=""
+			airport_code="MIA"
+			uncarpet="false"
+	
+	/>
+		
+		
+	<location long="-90.53282"  lat="14.62480"
+			image_path="GUA.jpg"
+			copy_title="La Aurora International Airport"
+			copy_text="During World War II, La Aurora was used by the United States Army Air Force defending the Central American coastline against submarines of the Axis powers. All windows in this picturesque Guatemalan airport were blacked out, and aircraft hangars were camouflaged. Wanting to leave nothing to chance the Air Force decreed that GUA's colorful carpet, depicting jaguars and llamas dancing and playing pan-pipes together should be replaced with something less visible to curious periscopes. The result is the GUA of today, a carpet of strong greys tousling frantically with slightly less strong greys enveloped in an overwhelming aura of greyness. It turned out to be a fortuitous move. The original GUA, which had been placed in the officers mess, was destroyed by enemy action in 1945."
+			photo_credit="Jack Dancy"
+			photo_link="www.trufflepig.com"
+			airport_code="GUA"
+			uncarpet="false"
+	
+	/>
+		
+		
+	<location long="-70.26243"  lat="43.65467"
+			image_path="PWM.jpg"
+			copy_title="Portland International Jetport"
+			copy_text="Why do we not call all our airports ‘jetports’ as Portland International does? Then we could say things like, ‘Sorry, I must dash, i've got to get to the jetport,’ or, ‘Can you pick me up at the jetport?’ or, ‘Aliens have attacked the jetport!’ which would be really cool. As it is PWM remains one of a handful of jetport carpets in existence, and with its Cubist repetitions, and calm, controlled palette, it doesn't disappoint."
+			photo_credit="Hugh Dancy"
+			photo_link=""
+			airport_code="PWM"
+			uncarpet="false"
+	/>
+			
+			
+	<location long="-119.81439"  lat="39.53037"
+			image_path="RNO.jpg"
+			copy_title="Reno-Tahoe International Airport"
+			copy_text="RNO is a carpet of urgency and tension, thrusting with ideas beyond the merely formal aspects of ‘balance’ and ‘contrast’. Not necessarily political, but with a few sharp things to say nonetheless, RNO is a carpet that risks its own formal and methodological language. It's a gamble, but it pays off, unlike the Atlantis Casino Resort in downtown Reno which won't give a sucker an even break."
+			photo_credit="George Pendle"
+			photo_link=""
+			airport_code="RNO"
+			uncarpet="false"
+	
+
+	/>
+	
+	<location long="23.73641"  lat="37.976151"
+			image_path="ATH.jpg"
+			copy_title="Athens International Airport"
+			copy_text="In a city known for the dramatic vertical columns of the Parthenon, it is inspiring to see that ATH has chosen to rival this vertiginous work, rather than feebly kowtow to it. Using triangles - the tallest of all two-dimensional shapes - and altitudinous blue/gray shading, ATH is the kind of airport carpet one can imagine the great god Apollo walking upon, before mounting his sun chariot and racing across the sky."
+			photo_credit="Jonathan Dancy"
+			photo_link=""
+			airport_code="ATH"
+			uncarpet="false"
+	
+	
+	/>
+		
+	<location long="130.879272"  lat="-12.40739"
+			image_path="DRW.jpg"
+			copy_title="Darwin International Airport"
+			copy_text="It is ironic that lily pads should adorn the carpet at Darwin International Airport, for it was a humble variety of ‘Nymphaeaceae’ that proved the one sticking point in Charles Darwin's theory of evolution. Roughly speaking, evolution states that living creatures adapt over time to suit their environment. Lily pads, on the other hand, adapt their environment to suit themselves. Plant a lily pad anywhere in the world and a small body of water will soon appear, replete with frogs, dragonflies and other paraphenalia of the pond. This discovery caused Darwin to suffer a nervous breakdown, and set back the release of his groundbreaking treatise ‘On the Origin of Species’ by six years. When finally released it held no mention of water lilies. DRW daringly revives the controversy."
+			photo_credit="Lisa C."
+			photo_link=""
+			airport_code="DRW"
+			uncarpet="false"
+	
+	/>
+		
+	<location long="-122.329439"  lat="47.60356"
+			image_path="SEA.jpg"
+			copy_title="Seatac International Airport"
+			copy_text="SEA never wanted to be a carpet. When it was just a handful of threads spooling on an industrial loom it dreamed one day of becoming a vent, pumping fresh air into the lungs of weary airport travelers. But it was not to be. As a thermoplastic polymer SEA never stood a chance amongst the precocious stainless steels that jockeyed for the enviable position of duct. So SEA accepted its fate and became an airport carpet, comforting the tired feet of the international business class. But something about its childhood dream failed to die, as can be seen by its unmistakable vent-like patterning."
+			photo_credit="Katharina Grosman"
+			photo_link=""
+			airport_code="SEA"
+			uncarpet="false"
+	
+	
+	/>
+		
+	<location long="-116.222359"  lat="43.570881"
+			image_path="BOI.jpg"
+			copy_title="Boise Airport"
+			copy_text="If you were to think that BOI was just a bunch of meaningless gray wavy lines marked out in blue you would be staggeringly wrong. For if one were to view BOI from the air - which because of the airport's roof is, at the moment, impossible to do - one would see that it in fact resembles one giant fingerprint. A double loop whorl, to be exact, with a slight imperfection in the lower left recurve. Curiously enough, an almost identical fingerprint was found at the scene of a double-murder at the Triple Stop Motel on Route 9. Boise police have only said that BOI remains a ‘carpet of interest’." 
+		        photo_credit="Katharina Grosman"
+			photo_link=""
+			airport_code="BOI"
+			uncarpet="false"
+	
+	
+	/>
+		
+	<location long="-93.381729"  lat="37.243019"
+			image_path="SGF.jpg"
+			copy_title="Springfield-Branson Airport"
+			copy_text="The carpet at SGF beuatifully reproduces the rivers, grass and pebbles that Missouri is so famous for. This back-to-nature approach extends to the airplanes that take-off and land at SGF, which are forced to glue blue feathers to their fuselage and attach yellow beaks to their cockpits in order to resemble the Bluebird, Missouri's state bird. Such stringent regulations have seen a significant drop in air traffic to SGF. However some of the converted planes have turned one of the airport hangars into a nest, in which they are said to have laid giant steel eggs."
+			photo_credit="G.L.G"
+			photo_link=""
+			airport_code="SGF"
+			uncarpet="false"
+
+	/>
+		
+	<location long="-86.668213"  lat="36.134232"
+			image_path="BNA.jpg"
+			copy_title="Nashville International Airport"
+			copy_text="Like a giant game of monochrome Tetris, BNA's blocky grey tetrads challenge the traveler to relax and ‘fit in‘. This would be easier to do if every now and then parts of the shifting carpet did not explode and disappear, and if the deafening hyperactive Japanese music gave up for just a minute."
+			photo_credit="Julie Mathews"
+			photo_link=""
+			airport_code="BNA"
+			uncarpet="false"
+	
+
+	/>
+		
+	<location long="-98.716942"  lat="35.30896"
+			image_path="OKC.jpg"
+			copy_title="Will Rogers World Airport"
+			copy_text="As rough-hewn and no-nonsense as the man the airport is named after, OKC offers the traveler a mid-western welcome that is gruff yet welcoming. OKC is not a carpet you'd want to fall to your knees on, or on which to wear high-falutin’ thin-soled shoes. But it is an honest carpet. A decent carpet. One which has made no deals with theoretical and aesthetic brouhaha. Tough and long-lasting, its thick grooves and triple-wound fibers mean it never met a baggage cart it didn't like."
+			photo_credit="Julie Mathews"
+			photo_link=""
+			airport_code="OKC"
+			uncarpet="false"
+	
+	/>
+	
+	<location long="-81.31147"  lat="28.441759"
+ 			image_path="MCO.jpg"
+ 			copy_title="Orlando International Airport"
+ 			copy_text="Like flower-strewn barbed wire MCO suggests the fact that airports are both places of detention and freedom, torture and solace. The traveler is hemmed in like an animal in a field only to eventually be set free through his 'Gate'. But to where? MCO's insight into the traveler's condition is as profound as it comes in the realm of airport carpets. Added to this is the fact that it soaks up stains really well."
+ 			photo_credit="Gwynna Forgham-Thrift"
+ 			photo_link=""
+ 			airport_code="MCO"
+ 			uncarpet="false"
+
+ 	/>
+ 		
+ 	<location long="-82.535606"  lat="27.974421"
+ 			image_path="TPA.jpg"
+ 			copy_title="Tampa International Airport"
+ 			copy_text="TPA brings to mind nothing less than Lichtenberg figures, the branch-like patterns electricity makes when it hits insulating material, or the pattern left on people's skin when lightning hits them. This is unsurprising considering TPA employs six massive electrical generators to pump millions of volts into its polymethyl methacrylate floor covering. The result is a uniquely patterned but highly electrified carpet. Foot traffic is down."
+ 			photo_credit="Jamie Thomas"
+ 			photo_link=""
+ 			airport_code="TPA"
+ 			uncarpet="false"
+ 
+  	/>
+  		
+  	<location long="-83.047924"  lat="42.331685"
+  			image_path="DTW.jpg"
+  			copy_title="Detroit Metropolitan Wayne County Airport"
+  			copy_text="A chaotic geometry that symbolizes the decline of industry in the north, the collapse of morals among today's youth, but most of all the large supply of alcohol in the bloodstream of the carpet's designer. DTW literally seems to have been created by someone with DTs. Which is pretty impressive if you know how difficult it is to program an automated tufting machine even when you're sober."
+  			photo_credit="Megan Lawrence"
+  			photo_link=""
+  			airport_code="DTW"
+ 			uncarpet="false"
+	/>
+	  		
+	<location long="-84.253311"  lat="9.62489"
+	  		image_path="SJO.jpg"
+	  		copy_title="Juan Santamaria International Airport"
+	  		copy_text="After Costa Rica abolished its army in 1949 many of its former members entered the carpet manufacturing business. So while SJO displays a geometrical precision, sensitivity to color, and light-hearted flourish unmatched in carpet-making circles, it also suggests that the Costan Rican army, if it still existed, would have been a bit of a pushover."
+	  		photo_credit="Gili Wolf"
+	  		photo_link=""
+	  		airport_code="SJO"
+ 			uncarpet="false"
+ 			
+ 	/>
+	  		
+	<location long="-88.918793"  lat=" 13.79687"
+	  		image_path="SAL.jpg"
+	  		copy_title="Comalapa International Airport"
+	  		copy_text="In the late 1970s a ferocious battle for supremacy raged between El Salvador's only two airports - the newly built Comalapa Airport and the old and decaying Ilopango Airport. Check-in staff, baggage handlers and ground-crew from both sides raged fierce guerrilla warfare against each other, dynamiting control towers, digging up runways and, most fatefully, burning carpets. Comalapa won the battle and is now El Salvador's pre-eminent airport, but when one looks at the cold hard surface of SAL's floor one has to wonder whether it was all worth it."
+	  		photo_credit="Gili Wolf"
+	  		photo_link=""
+	  		airport_code="SAL"
+ 			uncarpet="true"
+ 			
+ 	
+	/>
+	
+ 	<location long="-81.595093"  lat="38.369671"
+	  		image_path="CRW.jpg"
+	  		copy_title="Yeager Airport"
+	  		copy_text="This fine West Virginian airport carpet is a prime example of the Cubist influence on carpet design. One need only glance at it for a second to immediately realize the influence of Ozenfant, Survage, Archipenko and Vorobieff. But analysing the competing strands of Analytical and Synthetic Cubism represented in CRW can only take one's appreciation of this magnificent carpet so far. To really understand the genius of CRW try visiting Tudor's Biscuit World, conveniently located within the main terminal, and see how well the carpet conceals any fugitive crumbs that may escape from your crumbly, buttery, southern-style biscuit."
+	  		photo_credit="Nick Haddad"
+	  		photo_link=""
+	  		airport_code="CRW"
+ 			uncarpet="false"			
+ 	
+ 	/>
+ 	
+  	<location long="-98.472862"  lat="29.52515"
+ 	  		image_path="SAT.jpg"
+ 	  		copy_title="San Antonio International Airport"
+ 	  		copy_text="A dandy gentleman, wrapped in velvet and silk, wearing a golden waistcoat and a sensuously perfumed buttonhole SAT is not. What SAT is is a hobnail boot wearing, shaved head, donkey jacket tough, who would be just as happy to kick your teeth down your throat as it would to shake your hand.Treat it with respect, fear even. And whatever you do, don't sit on it." 
+ 	  		photo_credit="Jesse Cohen"
+ 	  		photo_link=""
+ 	  		airport_code="SAT"
+  			uncarpet="false"			
+ 			
+ 	/>
+ 	
+  	<location long="-3.36415"  lat="55.947762"
+ 	  		image_path="EDI.jpg"
+ 	  		copy_title="Edinburgh Airport"
+ 	  		copy_text="In December 2007, the 83 crew and passengers of EasyFlight 147 were lost somewhere between Gates 3 and 4 of the main terminal of EDI. Despite extensive searches in the airport's washrooms, restaurants and duty-free shops, no trace was found of them. In January 2009, three survivors of the lost flight staggered out into the airport's main corridor from behind a decorative pot plant. They were clearly in shock, and violently refused to walk upon EDI's carpet, claiming it was a portal that had thrust them into a horrifying parallel universe from which only three of them had managed to escape."
+ 	  		photo_credit="Hugh Dancy"
+ 	  		photo_link=""
+ 	  		airport_code="EDI"
+  			uncarpet="false"			
+ 				
+ 	/>
+ 	
+  	<location long="-79.385329"  lat="43.648565"
+ 	  		image_path="YYZ.jpg"
+ 	  		copy_title="Toronto Pearson International Airport"
+ 	  		copy_text="In 1960, the Toronto airport authorities were given a choice - either spend the remains of their airport construction budget on a flashily designed carpet by a world renowned designer, or spend it all on obtaining a snappy IATA airport code. The Canadians chose the latter and the airport now has one of the snappiest codes - YYZ - of any airport in the world. The carpet is a bit boring though."
+ 	  		photo_credit="Hugh Dancy"
+ 	  		photo_link=""
+ 	  		airport_code="YYZ"
+  			uncarpet="false"		
+	/>
+	
+  	<location long="11.57752"  lat="48.13641"
+ 	  		image_path="MUC.jpg"
+ 	  		copy_title="Munich 'Franz Josef Strauss' Airport"
+ 	  		copy_text="Soul destroying. MUC is the sort of stone floor covering that the Grimm Brothers might have come up with in one of their darker moments. Unyielding and unsatisfying, MUC is the sort of floor covering your mother warned you about. Stay away."
+ 	  		photo_credit="Nigel Whiteoak"
+ 	  		photo_link=""
+ 	  		airport_code="MUC"
+  			uncarpet="true"		
+		
+	/>
+	
+	
+  	<location long="-123.114034"  lat="49.26044"
+ 	  		image_path="YVR.jpg"
+ 	  		copy_title="Vancouver International Airport"
+ 	  		copy_text="YVR's carpet is seemingly covered with pictures of the maple leaf, the national leaf of Canada. But closer scrutiny reveals something lurking within the leaf's veins. Seemingly constructed from a random assortment of long and short dashes, these dashes are actually abuzz with Morse code. If one reads the carpet from left to right one comes upon a mysterious collection of unfathomable Canadian proverbs, such as 'Your left ear is the father of your satisfaction', 'Hold a bitter tree, catch a bitter fruit, fa la la.' and 'A skunk at dawn is worth a skunk at night.'"
+ 	  		photo_credit="Anne Thompson"
+ 	  		photo_link=""
+ 	  		airport_code="YVR"
+  			uncarpet="false"		
+		
+	/>
+	
+	<location long="-149.857749"  lat="61.21756"
+ 	  		image_path="ANC.jpg"
+ 	  		copy_title="Ted Stevens Anchorage International Airport"
+ 	  		copy_text="Named Alasakan Airport Carpet of the Century in 2000 by the Alaskan Airport Carpet of the Century Committee, ANC makes claim to being one of the most controversial airport carpets of all time. Visually it is extraordinary, its use of quiet beige and passionate puce combining brilliantly with its interlocking puzzle-piece imagery to create a carpet of high emotion. However in 2008 questions were raised about its originality by the Alaskan Office of Public Integrity after scraps of a similar carpet were found scattered across the Arctic National Wildlife Refuge. In an attempt to combat further criticism the Alaskan Airport Carpet committee declared ANC Airport Carpet of the Millennium."
+ 	  		photo_credit="Kara Yoest Scheffer"
+ 	  		photo_link=""
+ 	  		airport_code="ANC"
+  			uncarpet="false"		
+  	/>
+  	
+  	<location long="-81.868194"  lat="26.640845"
+   	  		image_path="RSW.jpg"
+   	  		copy_title="Southwest Florida International Airport"
+   	  		copy_text="The flaming striped patterns found on RSW allude to three different facets of life in the city of Fort Myers. Firstly, it refers to the natural world, the world of striped bass and dancing seaweed found along the city's Gulf coast. Secondly, it alludes to the city's religiosity, in particular its having the largest Ku Klux Klan membership of any city south of Alabama. Thirdly, and most historically, it seems to refer to the roaring fire Thomas Edison insisted was kept in his winter home in the city, and which he used to view through his patented Edison Kaleidoscopic Gogglewear."
+   	  		photo_credit="Michael Thurston"
+   	  		photo_link=""
+   	  		airport_code="RSW"
+  			uncarpet="false"	
+		
+	/>
+  	
+  	<location long="1.44869"  lat="43.60574"
+   	  		image_path="TLS.jpg"
+   	  		copy_title="Toulouse-Blagnac Airport"
+   	  		copy_text="The luminous corduroy threads that create the ever-so subtle optic variations of TLS also pay homage to the southern city's role as a center of viniculture. The French phrase 'etre gris' (literally 'to be grey')  means to be tipsy. TLS is thus a manifold artistic pleasure."
+   	  		photo_credit="Andy Cooke"
+   	  		photo_link=""
+   	  		airport_code="TLS"
+  			uncarpet="false"
+	/>	
+	
+  	<location long="-88.952459"  lat="39.845845"
+   	  		image_path="DEC.jpg"
+   	  		copy_title="Decatur Airport"
+   	  		copy_text="The carpeteer who took this remakable shot of DEC worried that it might be too plain, too drab, and not nearly stain-resistant enough for our liking. This, however, proved to be a simple case of carpet anxiety. DEC is like a spectral presence or a half-forgotten memory. It's the thing that you were told to do but never did, or the person you were meant to see but never saw. DEC is there but not all there, like your great-aunt Doris who keeps going on about the little men who live in her refrigerator and try to sell her insurance every time she reaches for the butter. As much as DEC is, it also isn't. And that's more than enough."
+   	  		photo_credit="Renee Pepmiller"
+   	  		photo_link=""
+   	  		airport_code="DEC"
+  			uncarpet="false"
+	/>	
+	
+	<location long="-93.828377"  lat="32.4547"
+   	  		image_path="SHV.jpg"
+   	  		copy_title="Shreveport Airport"
+   	  		copy_text="It is a little known fact that the 'shiv', an improvised knife-like weapon often found in prisons, was actually invented in SHV (hence its name). It was the early 1980s and two rival gangs of prisoners, who were both being transported across the country by U.S. Marshals, passed each other on a moving walkway at SHV. Grabbing whatever materials were to hand - broken luggage straps, cocktail napkins, chewing gum - the prisoners' criminal ingenuity quickly transformed these objects into vicious disemboweling devices. The U.S. Marshals were overpowered and so began the Battle of Gate 11A during which luggage carousels were said to have run red with blood. Unsurprisingly, SHV's carpet makes no reference to this ground-breaking, blood-curdling moment."
+   	  		photo_credit="Desmond Perkins"
+   	  		photo_link=""
+   	  		airport_code="SHV"
+  			uncarpet="false"
+	/>	
+	
+	<location long="-84.662086"  lat="39.057499"
+   	  		image_path="CVG.jpg"
+   	  		copy_title="Cincinnati/Northern Kentucky International Airport"
+   	  		copy_text="One of the few hypno-carpets still remaining from the Cold War, CVG continues to mesmerize to this day. Originally designed in 1988 by a covert CIA operation named 'The Loom', CVG was meant to subliminally affect the minds of a trade delegation from East Germany who were visiting the city in 1989. Despite many attempts to uncover what exactly the secret message hidden within this carpet was, CarpetsforAirports.com has been unsuccessful in obtaining this information through the Freedom of Information Act. However, twenty years on, it should be noted that Cincinnati has the highest sales of blue jeans, rock music, Coca-Cola and wall demolition packs in the country."
+   	  		photo_credit="Tim Beevers"
+   	  		photo_link=""
+   	  		airport_code="CVG"
+  			uncarpet="false"
+	/>	
+	
+	<location long="-122.873482"  lat="42.36866"
+   	  		image_path="MFR.jpg"
+   	  		copy_title="Rogue Valley International-Medford Airport"
+   	  		copy_text="Following his abdication in 1936, Edward VIII, now the Duke of Windsor, departed the United Kingdom for foreign lands. With his new wife, Wallis Simpson, he traveled to Austria, Germany and France where the couple were feted by Europe's high society. Amidst this aristocratic social swirl the former king was sent a letter by Charles C. Furnas, the enterprising mayor of the town of Medford, Oregon. The letter invited the ex-monarch to visit Medford's Bear Creek Park where a new Girl Scout day camp was being inaugurated. Surprisingly, and for reasons that probably hark back to his strict English upbringing, the Duke of Windsor accepted on condition that his visit be kept strictly secret. There is thus no record of whether the Duke approved of the new Girl Scout day camp, nor of his impressions of Oregonian life in general. In fact the only evidence as to his visit can be found at MFR, whose carpet bears an unmistakable Glen Plaid pattern, a pattern which the Duke famously popularised."
+   	  		photo_credit="Matthew Hays"
+   	  		photo_link=""
+   	  		airport_code="MFR"
+  			uncarpet="false"
+	/>
+
+	<location long="103.981209"  lat="1.34042"
+   	  		image_path="SIN.jpg"
+   	  		copy_title="Singapore Changi Airport"
+   	  		copy_text="One of the most psychologically terrifying carpets in the world, SIN's vertiginous pattern was designed to give anyone who walks on it the impression of falling out of the window of a skyscraper in the brightly lit Downtown Core, Singapore's business district. The pattern was chosen in the belief that it would speed passengers to their departure gate. Unfortunately it only appears to work in this fashion in a north-south direction. Passengers trying to go the opposite way have often had to be winched across the carpet to their gates with ropes."
+   	  		photo_credit="Tom Messenger"
+   	  		photo_link=""
+   	  		airport_code="SIN"
+  			uncarpet="false"
+
+	/>
+
+	<location long="37.41803"  lat="55.964588"
+   	  		image_path="SVO.jpg"
+   	  		copy_title="Sheremetyevo International Airport"
+   	  		copy_text="Currently submerged under three fathoms of water, SVO holds the distinction of being the only underwater airport in the world. No-one knows quite why this is. Was it the argument that SVO's airport manager had with Vladimir Putin regarding the damage caused by the Russian premier's uranium-soled shoes? Was it the fact that Aeroflot, which uses the airport as its hub, had failed to pay its monthly protection money to the famously perverse Moscow mafia? Whatever the case may be, SVO's gray terrazzo flooring has now been lent a softer aquatic tint, interrupted only by the odd string of seaweed and darting beluga."
+   	  		photo_credit="Andy Cooke"
+   	  		photo_link=""
+   	  		airport_code="SVO"
+  			uncarpet="true"
+	/>
+
+	<location long="108.179298"  lat="22.618299"
+   	  		image_path="NNG.jpg"
+   	  		copy_title="Nanning Wuxu Airport"
+   	  		copy_text="Do they know how to do airport carpets in China or do they know how to do airport carpets in China? The answer is, of course, that they know how to do airport carpets in China. NNG is yet another example of China's rise as a carpeting superpower. With its purple, pink and yellow diamonds shimmering like a flame, NNG brings to mind XIY's chain-mail design, but suggests a demonic carpet dragged onto the earth's surface from one of the lowest carousels of Hell."
+   	  		photo_credit="Andy Cooke"
+   	  		photo_link=""
+   	  		airport_code="NNG"
+  			uncarpet="false"
+
+	/>
+
+	<location long="106.658157"  lat="10.81912"
+   	  		image_path="SGN.jpg"
+   	  		copy_title="Tan Son Nhat International Airport"
+   	  		copy_text="Herman Melville spent a chapter describing the horrors of the color white in 'Moby Dick': 'Witness the white bear of the poles, and the white shark of the tropics; what but their smooth, flaky whiteness makes them the transcendent horrors they are? That ghastly whiteness it is which imparts such an abhorrent mildness, even more loathsome than terrific, to the dumb gloating of their aspect. So that not the fierce-fanged tiger in his heraldic coat can so stagger courage as the white-shrouded bear or shark.' Or, we suggest, SGN."
+   	  		photo_credit="Andy Cooke"
+   	  		photo_link=""
+   	  		airport_code="SGN"
+  			uncarpet="true"
+
+	/>
+	
+	<location long="105.814697"  lat="21.226299"
+   	  		image_path="HAN.jpg"
+   	  		copy_title="Noi Bai International Airport"
+   	  		copy_text="At first glimpse HAN seems like any other non-carpet - a cold, remorseless floor covering endowed with a dull and meaningless pattern. But HAN is more complex than most linoleum or terrazzo airport floors. Witness the red stripe detail in the top left of the photograph. What can this mean? Is it simply a nod to Vietnam's communist government, or could it possibly hint at the trap door located in the third stall of the men's toilet that leads down into a maze of tunnels filled with traps and blind, poison-dart blowing monks who guard the sacred ruby treasure of Au Co that if touched by unholy hands will plunge the country into a terrible pestilence?"
+   	  		photo_credit="Andy Cooke"
+   	  		photo_link=""
+   	  		airport_code="HAN"
+  			uncarpet="true"
+	/>
+	
+	<location long="106.726402"  lat="20.819201"
+   	  		image_path="HPH.jpg"
+   	  		copy_title="Cat Bi International Airport"
+   	  		copy_text="Apparently the floor at Cat Bi International Airport smells exactly how it sounds."
+   	  		photo_credit="Andy Cooke"
+   	  		photo_link=""
+   	  		airport_code="HPH"
+  			uncarpet="true"
+  	/>
+  	
+  	<location long="-82.88768"  lat="39.997349"
+     	  		image_path="CMH.jpg"
+     	  		copy_title="Port Columbus International Airport"
+     	  		copy_text="Analysis of airport carpets is not restricted to the scientists who work tirelessly in the Carpets For Airports underground analytical facility. Sensitive travelers, recovering from jet lag or in a deep Xanax haze, can often hear the carpet talking to them with a clarity that our trained scientists can only envy. Witness the shrewd analysis by Carpeteer Rudisille of CMH: 'The pattern of CMH resembles an icy breeze brought on by the gods, while the visual stutter in this wind-current pattern (caused by the frequent misalignment of the carpet tiles) subliminally prepares passengers for any imminent, in-flight turbulence.' We couldn't have put it better ourselves." 
+     	  		photo_credit="Justin Rudisille"
+     	  		photo_link=""
+     	  		airport_code="CMH"
+  			uncarpet="false"		
+   	/>
+  	
+  	<location long="16.30006"  lat="43.536499"
+     	  		image_path="SPU.jpg"
+     	  		copy_title="Split Airport"
+     	  		copy_text="It is a little known fact that the popular dessert, the Banana Split, originated in the largest city on the Dalmatian Coast. Introduced to the city's denizens by African merchants in the early 19th Century, a banana craze soon swept through the region. People wore bananas in their hats, walked with the aid of banana shaped canes, and dueled one another with unpeeled bananas. Some churches even painted their wooden crucifixes yellow in an attempt to capitalise on the trend. The Banana Split dessert was just one of the many innovations created during this time. And yet SPU makes no mention of this. Or does it? On an otherwise barren and featureless carpet, a dot of an unidentifiable black substance has been carefully placed as if to simulate the unsightly bruises on an over-ripe banana, and thus honor Split's banana-crazed heritage."
+     	  		photo_credit="Guy Walters"
+     	  		photo_link=""
+     	  		airport_code="SPU"
+  			uncarpet="false"	
+     	/>
+    	
+    	<location long="-112.989738"  lat="46.610439"
+       	  		image_path="HLN.jpg"
+       	  		copy_title="Helena Regional Airport"
+       	  		copy_text="The trim, linear pattern of HLN suggests micro-circuitry and electrical circuit boards. Indeed while traversing HLN's relentless grid, the lonely traveler can often feel like he has been digitized and thrust into the mainframe of a malevolent supercomputer, where he must fight to the death against rival programs. The effect is such that by the time the weary traveler has stepped onto his plane, he is quite uncertain as to whether he is a human who has dreamed of being a computer, or a computer who has dreamed of being a human."
+       	  		photo_credit="Matthew Hays"
+       	  		photo_link=""
+       	  		airport_code="HLN"
+  			uncarpet="false"
+       	/>
+  			
+     	<location long="-73.438538"  lat="42.929211"
+        	  	image_path="MHT.jpg"
+        	  	copy_title="Manchester-Boston Regional Airport"
+        	  	copy_text="Thanks to the relentless pressure of organizations such as Carpets For Airports, many airports are replacing their tile and terrazzo flooring with carpet. Some, however, are attempting to fudge the issue. Take MHT, who in an attempt to mimic the astonishing juxtapositions that carpet tiles allow, have tried to replicate this with non-carpeted materials. The effect is disingenuous, the result artificial. The juxtaposition of two different sets of floor tiles may give one an immediate thrill, but it is a false thrill, one which leaves the traveler empty inside, like after eating a Chinese meal, or being dumped by one's girlfriend. Nice try MHT, but you are only lying to yourself."
+        	  	photo_credit="Elizabeth Orban"
+        	  	photo_link=""
+        	  	airport_code="MHT"
+  			uncarpet="true"
+       	/>
+  			
+     	<location long="11.10216"  lat="60.191158"
+        	  	image_path="OSL.jpg"
+        	  	copy_title="Oslo Airport"
+        	  	copy_text="OSL's floor covering is like stumbling upon an albino elephant at an oasis in the desert during a solar eclipse - very unlikely. Indeed this is the Odin of airport floor coverings: timeless, improbable, and destined to die in a fiery Ragnarok at the end of time. Despite the overt mission of Carpets For Airports to celebrate airport carpets across the world, we cannot help but doff our caps to OSL, and cheer it's timbered perversity."
+        	  	photo_credit="Marielle Sack"
+        	  	photo_link=""
+        	  	airport_code="OSL"
+  			uncarpet="true"
+  	/>
+  	
+       	<location long="-118.144379"  lat="33.81789"
+          	  	image_path="LGB.jpg"
+          	  	copy_title="Long Beach Airport"
+          	  	copy_text="LGB was immortalised in the 1947 screwball comedy 'The Bachelor and the Bobby-Soxer' when Cary Grant, who is chasing after Myrna Loy in the airport terminal, trips on the carpet and utters the line: 'Why don't you look where you're going!'"
+          	  	photo_credit="Chris Danes"
+          	  	photo_link=""
+          	  	airport_code="LGB"
+    			uncarpet="false"
+  	/>
+  	
+        <location long="-121.92621"  lat="37.36788"
+          	  	image_path="SJC.jpg"
+          	  	copy_title="Norman Y. Mineta San Jose International Airport"
+          	  	copy_text="A two-tone cream and chocolate flatweave, SJC is suggestive of a half-drunk cup of coffee cooling at the end of an unsuccessful day of selling insurance door-to-door. One can almost sense the loneliness and frustration seeping out from it. It is a carpet that fails to achieve greatness, but is obsessed by it."
+          	  	photo_credit="Chris Danes"
+          	  	photo_link=""
+          	  	airport_code="SJC"
+    			uncarpet="false"	
+  	
+  	/>
+  	
+       	<location long="39.2019"  lat="-6.8753"
+          	  	image_path="DAR.jpg"
+          	  	copy_title="Mwalimu Julius Kambarage Nyerere International Airport"
+          	  	copy_text="Many believe that sub-Saharan airport carpeting is a myth, like the White Elephant Hordes of the Kalahari Desert, or the Floating Cats of Timbuktu. Carpets for Airports is pleased to finally dispel this terrifying myth. As our intrepid carpeteer writes from the depths of that dark continent, 'The airport is not that well carpeted, mainly just stone, but there is a cheeky bit of blue/grey carpet outside each shop and there is red carpet around the scanning machines.' Feast your eyes, gentle reader, on a sight grander than even the Laughing Cobras of Mozambique."
+          	  	photo_credit="Tim Vallings"
+          	  	photo_link=""
+          	  	airport_code="DAR"
+    			uncarpet="false"
+  	/>	
+  	
+   	<location long=" -110.935822"  lat="32.120441"
+            	  	image_path="TUS.jpg"
+            	  	copy_title="Tucson International Airport"
+            	  	copy_text="One of the first airport carpets to feature 3D effects, TUS is a true groundbreaker in carpeting technology. Once the weary traveler dons a pair of special glasses a whole new polyvisual world is opened up to them. The carpet's hand-tufted nylon/wool mixture seems to leap out and touch you. The awe-inspiring mechanical stitching seems so real it feels like it's right beneath your feet. Indeed so authentic is the experience that you'll almost be able to smell the stain-resistant olefin wafting up and around you."
+            	  	photo_credit="Claire Danes"
+            	  	photo_link=""
+            	  	airport_code="TUS"
+      			uncarpet="false"
+  	/>	
+  	
+     	<location long="-114.083641"  lat="46.91925"
+              	  	image_path="MSO.jpg"
+              	  	copy_title="Missoula International Airport"
+              	  	copy_text="MSO is a primordial airport carpet, one of the links between carpeting and such natural earth coverings as grass and moss. Like a verdant field, the chaotic design of MSO never repeats itself. Yet like a traditional airport carpet it requires no watering and does not appear to reproduce. MSO hearkens back to a time before the invention of the airplane itself, when airport terminals stood fallow awaiting their first arrivals and departures."
+              	  	photo_credit="Matthew Hays"
+              	  	photo_link=""
+              	  	airport_code="MSO"
+      			uncarpet="false"
+     	/>	
+     	
+     	<location long="-95.899773"  lat="41.300011"
+              	  	image_path="OMA.jpg"
+              	  	copy_title="Eppley Airfield"
+              	  	copy_text="A skillful shot by an exciting new carpeteer, shows how both triangles and wavy lines fight it out for predominance at OMA. In some parts of the airport - particularly by the low-numbered gates - the wavy lines have the upper hand, and any triangles that can be see are scalene and often missing  a hypotenuse. However in this picture we can see that a small family of wavy lines has been surrounded by a gang of rowdy triangle youths. Those who are of a squeamish nature had best look away." 
+              	  	photo_credit="Vi TranLee"
+              	  	photo_link=""
+              	  	airport_code="OMA"
+      			uncarpet="false"	 
+      	/>	
+      	 
+     	<location long="-52.742538"  lat="47.612511"
+              	  	image_path="YYT.jpg"
+              	  	copy_title="St.John's International Airport"
+              	  	copy_text="The first line of Canadian defense against attack from the Atlantic, YYT has for many years been a carpet that takes no prisoners. Located on Newfoundland, YYT was originally designed in the Second World War to intimidate and dissuade German spies from landing on the island. It succeeded beyond all measure - no Germans have visited Newfoundland in the past 70 years. A grey-blue tufted nylon carpet in a non-canonical gridiron pattern, it suggests unease and discomfort, chains and prisons. Even after all these years YTT can still put the fear of God into innocent travelers. Indeed even the husky carpeteer, Lauren Power, was so intimidated by its surly qualities that he could barely hold his camera steady when photographing it. Say what you want about the genial qualities of Canadians, but their carpets reveal the dark underbelly of all that cheery politesse."
+              	  	photo_credit="Lauren Power"
+              	  	photo_link=""
+              	  	airport_code="YYT"
+      			uncarpet="false"	 
+      			
+      	/>
+      	
+       	<location long="58.290699"  lat="23.58691"
+              	  	image_path="MCT.jpg"
+              	  	copy_title="Muscat International Airport"
+              	  	copy_text="Photographed by a devoted carpeteer on his honeymoon, MCT is located amidst the desert wastes of Oman and hearkens neither to that country's Arabian past nor to the petro-dollar extravagance of the region's present. What we have instead is something cold and European, a minimalist design that eschews flourishes and is almost Bauhaus in its functionality. Who was responsible for such a bold curatorial gesture? Surprisingly our inquiries led us to Denmark, and the doorstep of Ole Tronier, a design manager for the firm COWI. Mr. Tronier refused repeated requests for an interview saying he would not answer any questions unless they were asked in Proto-Norse, an ancient Scandinavian language. Thus snubbed we left, waving our fists at Mr. Tronier's front door, and calling down the wrath of Odin on his involute head."
+              	  	photo_credit="Robert Bush"
+              	  	photo_link=""
+              	  	airport_code="MCT"
+      			uncarpet="false"
+	/>
+      	
+       	<location long="-114.006889"  lat="51.134258"
+              	  	image_path="YYC.jpg"
+              	  	copy_title="Calgary International Airport"
+              	  	copy_text="No, you're not having a seizure, you're looking at YYC, a rare 'chameleon' carpet that is rarely walked upon let alone photographed. Is it a carpet made to look like a stone floor? Or a stone floor masquerading as a carpet? Or is it, as some  have suggested, a gateway into a fifth-dimensional world where time and space fold back on one another, reflections float free of mirrors, and colors can kill? Chances are we'll never know. That is unless famed Calgarian explorer, Monte Thirsk, ever returns from exploring its underside."
+              	  	photo_credit="Max Meyer"
+              	  	photo_link=""
+              	  	airport_code="YYC"
+      			uncarpet="false"	
+      	/>		
+
+      	
+       	<location long="-86.299362"  lat="39.710491"
+              	  	image_path="IND.jpg"
+              	  	copy_title="Indianapolis International Airport"
+              	  	copy_text="A missed flight provided a hit opportunity for stranded carpeteer, Claude Goguen. Facing a five hour wait until his next flight, Goguen turned his weary eyes to the ground only to discover, in his own words, 'a branch with leaves, like a deep forest under a sky of aluminum and HVAC.' Truly a sign that life can flourish in even the harshest of surroundings, IND's umbrageous branch bursts forth from a carpet beset with severe striations, offering distempered carpeteers sudden and blessed bucolic relief. Far from being a prison of frustration, the airport suddenly reveals itself as a magical arbor. As Samuel Taylor Coleridge might have said, 'No carpet is dissonant which tells of life.'"
+              	  	photo_credit="Claude Goguen"
+              	  	photo_link=""
+              	  	airport_code="IND"
+      			uncarpet="false"	
+      	/>		
+ 
+       	<location long="73.497398"  lat="4.167"
+              	  	image_path="MLE.jpg"
+              	  	copy_title="Male International Aiport"
+              	  	copy_text="Nestled on a tiny coral atoll, MLE is possibly the world's most beautiful airport. So why the unseemly floor tiling? One can imagine that in a nation that boasts the lowest highest point in the world (7 feet 7 inches) worries of flooding might have rendered the argument moot. But perhaps the airport's designers did not pay enough attention to the buoyant properties of a well-waterproofed tufted Wilton, some of whose models are now being marketed as 'Tsunami-proof'. Forget flying carpets. With global warming and the melting of the polar ice caps, floating carpets are riding the wave of the future."
+              	  	photo_credit="Robert Bush"
+              	  	photo_link=""
+              	  	airport_code="MLE"
+      			uncarpet="true"	
+      	/>		
+	
+ 
+       	<location long="121.802856"  lat="31.115561"
+              	  	image_path="PVG.jpg"
+              	  	copy_title="Shanghai Pudong International Aiport"
+              	  	copy_text="The Chinese are like a man who arrives late to a party but brings with him a case of champagne, a box of cigars, and a flock of giggling debutantes. While so many of the world's airports are ripping up their carpets, China has embraced the medium with under-footed majesty. Witness the modernist masterpiece that is PVG. Its palate - tasteful beiges, muted earth tones, grey blues - and streamlined pattern - seeming to reference the architectural lines of Eero Saarinen, Mies van der Rohe, and Arne Jacobsen - are unashamedly mid-century. But while its influences are undoubtedly European (how fitting for Shanghai, that most international of Chinese cities) the overall feel of the carpet is undeniably Chinese. It is a carpet that knows what it wants, and gets it too."        	  	
+              	  	photo_credit="Hugh Dancy"
+              	  	photo_link=""
+              	  	airport_code="PVG"
+      			uncarpet="false"	
+      	/>			
+ 
+       	<location long="-76.462517"  lat="42.489342"
+              	  	image_path="ITH.jpg"
+              	  	copy_title="Ithaca-Tompkins Regional Aiport"
+              	  	copy_text="'Ithaca,' writes Carpeteer Atif Chaudhry, 'is known for its gorges.' Indeed, the unofficial catchphrase for the town is 'Ithaca is Gorges.' One feels that if word gets out about ITH that may change to 'Ithacarpet!' This little wonder of a floor covering shows that even in the smallest airport wonders can be found. Tri-tone diamonds appear to hover above a rich purple background, its pattern strangely suggestive of an atomic structure. Perhaps this scientific motif references the nearby presence of Cornell University and Ithaca college. Indeed Carpeteer Chaudhry suggests that these diamond dots might have been woven into the carpet over the years by college students vainly attempting to find their way back from the labyrinth of spring-break. Then again, with a carpet as good as this, what student would ever want to leave?"
+              	  	photo_credit="Atif I. Chaudhry"
+              	  	photo_link=""
+              	  	airport_code="ITH"
+      			uncarpet="false"	
+      	/>			
+ 
+       	<location long="-122.39178"  lat="37.61476"
+              	  	image_path="SFO.jpg"
+              	  	copy_title="San Francisco International Aiport"
+              	  	copy_text="Although it may seem like just another airport, SFO is in fact run entirely by cats. From the baggage handling to the air traffic control, approximately fifteen hundred cats of many different breeds - from the Maine Coon to the Turkish Angora - ensure that SFO has one of the best records for flight delays and recovered luggage in the United States. Although the cats of SFO have carefully hidden their influence, the airport's carpet is something of a giveaway, the pattern's delicate swoops being interspersed with extended lengths of geometric stasis, clearly symbolizing the very essence of catness. Why have cats decided to run an airport? No-one is quite sure, and balls of string dangled enticingly behind luggage carousels by correspondents for Carpets For Airports went infuriatingly untoyed with. We can but suspect that cats are seeking the day when they might finally take on their great enemy - birds - on their own terms."
+              	  	photo_credit="Chairman Meow"
+              	  	photo_link=""
+              	  	airport_code="SFO"
+      			uncarpet="false"	
+      	/>			
+ 
+       	<location long="-89.346474"  lat="43.13512"
+              	  	image_path="MSN.jpg"
+              	  	copy_title="Dane County Regional Aiport"
+              	  	copy_text="MSN is a tough, no-nonsense, woven carpet, picked out in a color that bears only a distant, one might say troubled, almost certainly estranged, relationship to yellow. This is a carpet that drinks alone at bars, that eschews company, that turns its back on your foot. If MSN could talk it probably wouldn't."
+              	  	photo_credit="Rodman Madani"
+              	  	photo_link=""
+              	  	airport_code="MSN"
+      			uncarpet="false"	
+      	/>	
+      	
+       	<location long="126.656998"  lat="37.453369"
+              	  	image_path="ICN.jpg"
+              	  	copy_title="Incheon International Airport"
+              	  	copy_text="'Trippy, huh?' writes Carpeteer Curt Burich of this Far Eastern marvel. We couldn't have put it better ourselves. Located in the departures area of ICN, this carpet appears to oscillate wildly beneath the foot of the weary traveler, sending them into a state not unlike deep hypnosis. Indeed the mind-bending pattern  even seems to have affected the carpet-layer, who appears to have suffered a meltdown somewhere near the white column on the left. Why would the airport authorities want to hypnotize travelers? Only because it makes them more pliant, easier to control, and suckers for tchatkes from the duty-free trolley."
+              	  	photo_credit="Curt R. Burich"
+              	  	photo_link=""
+              	  	airport_code="ICN"
+      			uncarpet="false"	
+      	/>		       	
+      	
+      	<location long="123.300598"  lat="9.3358"
+              	  	image_path="DGT.jpg"
+              	  	copy_title="Dumaguete Aiport"
+              	  	copy_text="Small airports often plead economic constraints when it comes to their floor covering. Tiny DGT is no exception, and has clearly plumped for tile under the misguided apprehension that it will save itself money. But what of its soul? Who will come to DGT if it continues to welcome sandal-clad travelers with cold and unforgiving tile? Far better to replace the airport's lighting with flaming torches, or its maintenance crew with a hoard of spanner-wielding monkeys than not have a carpet. Where there's a will there's a weave."
+              	  	photo_credit="Curt R. Burich"
+              	  	photo_link=""
+              	  	airport_code="DGT"
+      			uncarpet="true"	
+      	/>		
+      			
+        	
+      	<location long="-46.484249"  lat="-23.424049"
+              	  	image_path="GRU.jpg"
+              	  	copy_title="Sao Paulo-Guarulhos International Aiport"
+              	  	copy_text="'You will note that Sao Paulo is tiled, not carpeted,' writes this consistently intrepid carpeteer. 'There was zero carpet there and these tiles were what grabbed me as an alternative.' And what an alternative it is! Complicated and contradictory, GRU's lush, naif tropical images are ruthlessly subverted by its stark monochrome coloring. One could pass this off as a conceptual game, but a political agenda is notable. If we take this floor covering to be a genuine aerial view of the Amazon rainforest we are suddenly faced with a picture of felled trees and a river running black with the pollutants of logging companies. The very fact the image is being portrayed on cold lifeless tiles as opposed to a soft, yielding carpet redolent of the Amazon's verdant grasslands seems to support this controversial reading."
+              	  	photo_credit="Tim Vallings"
+              	  	photo_link=""
+              	  	airport_code="GRU"
+      			uncarpet="true"	
+      	/>		
+      		      	
+      	<location long="-77.108093"  lat="-12.02276"
+              	  	image_path="LIM.jpg"
+              	  	copy_title="Jorge Chavez International Airport"
+              	  	copy_text="It is with mixed feelings that travelers catch a flight at Jorge Chavez International. After all, the airport is named after a famous aviator who died in a plane crash while flying over the Alps. Perhaps that is why the inside of the airport is so comforting; this is thanks largely to its carpet. With its muted, calming gold and white looms, LIM envelops one nerves in a lush fibritic embrace, whispering words of calm and contentment and gently steering your thoughts away from possible engine failure and the looming Andes."
+              	  	photo_credit="Tim Vallings"
+              	  	photo_link=""
+              	  	airport_code="LIM"
+      			uncarpet="false"	
+      	/>		
+      		      	
+      	<location long="-106.863899"  lat="39.21973"
+              	  	image_path="ASE.jpg"
+              	  	copy_title="Aspen-Pitkin County Airport"
+              	  	copy_text="ASE is a delicious quandary, braised in a grand illusion, drizzled with jus d'enigma. What are we to make of it? Aspen leaves appear to float on a miasmic pattern reminiscent of the great carpet at CLT. Does this signify the victory of realism over abstraction? If so, why then are the leaves brown and dying? Is ASE indicating the hollowness of representational forms in a multi-fragmented media culture? Or is it just commenting on the difficulty of sweeping up leaves on a windy afternoon?"
+              	  	photo_credit="Angela Carbonetti"
+              	  	photo_link=""
+              	  	airport_code="ASE"
+      			uncarpet="false"	
+      	/>		
+      		      	
+      	<location long="-107.91363"  lat="39.63978"
+              	  	image_path="EGE.jpg"
+              	  	copy_title="Eagle County Regional Aiport"
+              	  	copy_text="If a carpet can be said to express ecstasy then EGE just might be it. At first glance it is an unforgiving landscape of black and white fractures, however on closer inspection EGE gives way to tumultuous splashes of color. Any traveler lucky enough to tread this carpet's living, breathing surface can be forgiven for crying out with Shakespeare's Leontes, 'O! She's warm!'"
+              	  	photo_credit="Angela Carbonetti"
+              	  	photo_link=""
+              	  	airport_code="EGE"
+      			uncarpet="false"	
+      	/>		
+      		      	
+      	<location long="-90.256882"  lat="29.982969"
+              	  	image_path="MSY.jpg"
+              	  	copy_title="Louis Armstrong New Orleans International Airport"
+              	  	copy_text="Ruthlessly quoting (some would say stealing, while others might suggest borrowing without permission but fully intending to return) the art of minimalist sculptor Fred Sandback, MSY is either an architectonic exploration of form in space, or the wiring diagram for a 1957 Pontiac Chieftain."
+              	  	photo_credit="Joan Krevlin"
+              	  	photo_link=""
+              	  	airport_code="MSY"
+      			uncarpet="false"	
+      	/>				
+      		      	
+      	<location long="118.800003"  lat="32.083328"
+              	  	image_path="NKG.jpg"
+              	  	copy_title="Nanjing Lukou International Aiport"
+              	  	copy_text="NKG morphs beneath the tired traveler's feet like a psychedelic oil spill, appearing at once both cheery and possibly carcinogenic. In this it clearly references Nanjing's burgeoning role in chemical manufacturing. However NKG's design transcends allusions to human endeavor; it lives on outside of place and time, sticking in the mind like Daqing crude to a Great Cormorant's tail-feathers."
+              	  	photo_credit="Arthur Burnand"
+              	  	photo_link=""
+              	  	airport_code="NKG"
+      			uncarpet="false"	
+      	/>		
+      				
+      		      	
+      	<location long="113.257896"  lat="23.18230"
+              	  	image_path="CAN.jpg"
+              	  	copy_title="Guangzhou Baiyun International Aiport"
+              	  	copy_text="Hurry quick to CAN, specifically the new concourse at Gate 233, for as our carpeteer notes, 'the concourse opened only a few months ago and still has that new carpet smell.' This smell, as any carpeteer worth their salt should know, is 4-phenylcyclohexene, a scent that is sure to tantalize and uplift the spirits of even the weariest traveler. Although we at Carpets for Airports usually concern ourselves with a carpet's visual design, we would be remiss in not praising CAN's synthetic latex voluminousness, that takes up and extends the underlying styrene butadiene theme."
+              	  	photo_credit="Peter Jolicoeur"
+              	  	photo_link=""
+              	  	airport_code="CAN"
+      			uncarpet="false"	
+      			
+      	/>		
+      	
+      
+      	<location long="-117.316101"  lat="47.682201"
+              	  	image_path="SFF.jpg"
+              	  	copy_title="Felts Field Airport"
+              	  	copy_text="'SFF is a small regional airport,' writes Carpeteer Robert Odea with barely concealed contempt. 'The carpet is worn, dirty and depressing, which matches the airport ambience perfectly.' To a certain extent we agree: SFF is not a looker and will hardly win over converts in the great carpet/tile debate. However there is something in its grim grey threads that is undeniably powerful. 'You can wear me into the ground,' it seems to whisper. 'But I will become more powerful than you can possibly imagine."
+              	   	photo_credit="Robert Odea"
+              	  	photo_link=""
+              	  	airport_code="SFF"
+      			uncarpet="false"	
+      			
+      	/>		      	
+      	
+      	<location long="174.789093"  lat="-37.001492"
+              	  	image_path="AKL.jpg"
+              	  	copy_title="Auckland Airport"
+              	  	copy_text="AKL's use of text in its carpet is brilliantly innovative, subtly playing on the fact that the words 'tread' and 'read' are separated by but one letter. However the message woven into the carpet is a little more problematic. Although the airport authority insists this is a traditional Maori greeting that says 'Auckland Airport and the people of Paorae welcome you,' it has been suggested that a truer translation of the text runs, 'Your feet smell like the dungheaps of Paorae. Go home.' This little bit of mischief is typical of Iwi culture, just like the spiked toilet seats near Gate 4."              	  	
+              	  	photo_credit="Michele Hung"
+              	  	photo_link=""
+              	  	airport_code="AKL"
+      			uncarpet="false"	
+      			
+      	/>				      	
+      	
+      	<location long="-82.216667"  lat="34.890678"
+              	  	image_path="GSP.jpg"
+              	  	copy_title="Greenville-Spartanburg International Aiport"
+              	  	copy_text="Carpeteer Marko Veil is naturally proud of his 'awesome' hometown airport carpet. Indeed it is hard not to look at GSP and feel as Keats did in his poem 'On First Looking into Chapman's Homer' - 'Then felt I like some watcher of the skies / When a new planet swims into ken.' This is a magnificent carpet, broadloomed and proud, showing not just the aesthetic capabilities of nylon pile fibers but also their lush humanity. 'Walk on me,' it seems to coo, 'And you'll never walk alone.'"
+              	  	photo_credit="Marko Veil"
+              	  	photo_link=""
+              	  	airport_code="GSP"
+      			uncarpet="false"	
+         />		      	
+      	
+      	<location long="-87.905258"  lat="42.947159"
+              	  	image_path="MKE.jpg"
+              	  	copy_title="General Mitchell International Aiport"
+              	  	copy_text="MKE is named after the father of the United States Air Force, General William 'Billy' Mitchell, who was famed for his irrational hatred of hats. This strange antipathy to headwear - which would later see him court-martialed for insubordination - even extended to him refusing to wear an aviator's hat while flying his bi-plane. MKE celebrates the great man's quirks by replicating his famously tousled hair on its carpet. The colors too are accurate, down to the occasional red and yellow strands that beset him in later life and caused him to question the terrible costs of a hatless life."
+              	  	photo_credit="Geoff Greeley"
+              	  	photo_link=""
+              	  	airport_code="MKE"
+      			uncarpet="false"	
+      			   			    	
+      	/>		      	
+      	
+      	<location long="-107.75132"  lat="37.159512"
+              	  	image_path="DRO.jpg"
+              	  	copy_title="Durango-La Plata County Aiport"
+              	  	copy_text="Photographed in the cool, crisp, flourescent morning light, DRO seems both fleeting and eternal, ever-changing yet immutable. Its patterning is reminiscent of both trilobite fossils and the eddies and whirlpools found on a river's surface. This contradiction has DRO usher travelers towards their gates, while at the same time insisting they stop and admire it. Travelers through DRO often complain of cricked necks."              	  	
+              	  	photo_credit="Kristi Nolan"
+              	  	photo_link=""
+              	  	airport_code="DRO"
+      			uncarpet="false"	
+      			      			   			  
+      	/>		
+      	<location long="149.190491"  lat="-35.307339"
+              	  	image_path="CBR.jpg"
+              	  	copy_title="Canberra International Aiport"
+              	  	copy_text="Newly refurbished CBR stakes its claim to being a serious airport with this mottled green confection that is playful yet ultimately shallow. Sure, if you look closely at it you might be able to make out the shape of a demonic skull staring right back at you, but what self-respecting carpet these days doesn't have a subliminal occult message woven into its weft?"              	  	
+              	  	photo_credit="Tania Bierzonski-Burczyk"
+              	  	photo_link=""
+              	  	airport_code="CBR"
+      			uncarpet="false"	
+      			      			   			  
+      	/>  	
+      	<location long="-83.988876"  lat="35.806431"
+              	  	image_path="TYS.jpg"
+              	  	copy_title="McGhee Tyson Aiport"
+              	  	copy_text="A single poplar leaf seems to float gently down against an indistinct surface in this muted, earth-toned masterpiece. Does it speak to us of the futility of travel? The fragmentary grasp each of us has on our own existence? The fact that all things must pass? Or does it simply remind us that fallen leaves, wherever they may be, are a nuisance and should be swept up before some damn fool slips on them?"
+              	  	photo_credit="Danielle Ash"
+              	  	photo_link=""
+              	  	airport_code="TYS"
+      			uncarpet="false"	
+      			      			   			  
+      	/>  	
+      	<location long="175.613525"  lat="-40.323738"
+              	  	image_path="PMR.jpg"
+              	  	copy_title="Palmerston North International Aiport"
+              	  	copy_text="Carpeteer Alista Price paints a story of condiments gone wrong at delicious PMR: 'When a vat of mustard destined for a hot dog stand was spilled onto the grey-blue carpet at PMR in 1987 the airport authorities discovered that no amount of carpet cleaner could remove the stain. Deciding to make the most of a bad situation the airport authority appealed to local supermarkets for assistance in the shape of seven hundred bottles of mustard and nine hundred of chocloate sauce. With the aid of a small battalion of itinerant carpet designers, the mustard and the chocolate sauce were then applied in a way that was thought to be visually appealing.' The result is a Pollock-esque abstract that inspires the mind as much as it tantalizes the taste buds."
+              	  	photo_credit="Alista Price"
+              	  	photo_link=""
+              	  	airport_code="PMR"
+      			uncarpet="false"	
+      			      			   			  
+      	/> 
+      	
+      	<location long="-66.009239"  lat="18.436729"
+              	  	image_path="SJU.jpg"
+              	  	copy_title="Luis Munoz Marin International Aiport"
+              	  	copy_text="SJU is less about pious dematerialization than conceptual closure, and although one could get carried away with self-referential questions of the specificities of methodology, who really has the time, and besides, aren't you hungry?"
+              	  	photo_credit="Danielle Ash"
+              	  	photo_link=""
+              	  	airport_code="SJU"
+      			uncarpet="false" 	
+	/>  	
+	
+      	<location long="-84.59893"  lat="38.0383"
+              	  	image_path="LEX.jpg"
+              	  	copy_title="Blue Grass Aiport"
+              	  	copy_text="Sumptuous and regal with its allusions to both Caesar's laurels and the fleur-de-lis, LEX confounds these initial grand assumptions by repeating this resplendent pattern every two feet. The result is a kind of cramped pomp, a mechanical grandiosity that suggests that either all kings are but men, or that all men are but kings. It is as if LEX wants to have its cake and eat it, but at the last minute realises it isn't hungry and, besides, doesn't even like cake."
+              	  	photo_credit="Robert Greene"
+              	  	photo_link=""
+              	  	airport_code="LEX"
+      			uncarpet="false"	
+      			      			   			  
+      	/> 	
+  	
+</globe_location_list>

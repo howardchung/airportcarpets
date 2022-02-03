@@ -1,0 +1,2965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Airport Carpets of the World</name>
+  <description><![CDATA[The brainchild of Troy Rech, road warrior. 
+
+Implemented on Google by Matt Cohen.]]></description>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style129">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style168">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style159">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style165">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style126">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style152">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style130">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style118">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style115">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style162">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style172">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style139">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style171">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style145">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style119">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style154">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style166">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style176">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style138">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style136">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style146">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style124">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style167">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style164">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style143">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style140">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style177">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style127">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style153">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style120">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style141">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style144">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style134">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ca/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style131">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style157">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style173">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style128">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style135">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style151">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style155">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style174">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style158">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style163">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style161">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style147">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style148">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style137">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style175">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style156">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style149">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style132">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style150">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style169">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style133">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style160">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style142">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style117">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style170">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>ABE - Lehigh Valley International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs291.snc3/28226_1397279964810_1016561989_31226298_5531059_s.jpg"><br><br>ABE - Lehigh Valley International airport. Very geometric are these Pennsylvanians. They also included a fingerprint overlay - wonder if it is the illustrious Jim Thorpe's print. Submitted by me.</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-75.441757,40.651909,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ABX - Albury Airport</name>
+    <description><![CDATA[From the Pullman clan in Australia. ABX - Albury, New South Wales. For
+the life of me, I can't tell whether this carpet is upside down or
+right side up.<br><img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1234157766857_1016561989_30774688_1984348_n.jpg"><br>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>146.961273,-36.066376,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ABZ - Aberdeen, Scotland Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc7/p480x480/429397_2919789986609_1016561989_32985492_1175284177_n.jpg" style="width:245px">ABZ - Aberdeen, Scotland. Native Nick Allan presented this non-carpet floor covering to me with a twinge of sarcasm. It seems Aberdeen is dubbed the granite city yet the airport floor covering is actually faux-granite.</div>]]></description>
+    <styleUrl>#style129</styleUrl>
+    <Point>
+      <coordinates>-2.200278,57.204166,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>AKL - Auckland International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-ash1/hs897.ash1/180572_1739577682039_1016561989_32028579_5171311_a.jpg"><br><br>AKL - Aucklund, New Zealand.  In a break from tradition, I am adding two different carpets from AKL.  The first is this lovely rendition of the police chalk outline from what was know as the '2011 - Sheep Laser war'.  Little covered in the press, rival New Zealand sheep gangs took their animosity to the major transportation hubs.  Violence erupted with many sheep lost in the conflict.  Submitted by Margaret O'Sullivan Bielecki, during her amazing bike ride through NZ.<br><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/hs056.snc6/168615_1739578122050_1016561989_32028580_2933144_a.jpg"><br><br>AKL - Aucklund, New Zealand.&nbsp; The second AKL carpet was quickly laid to wipeout all visible reminders of the '2011 Sheep Laser war'.&nbsp; Although the olive branch carpet demonstrates the new found peace, the scars of this nasty conflict remain.&nbsp; Submitted by Margaret O'Sullivan Bielecki, from her amazing bike trip to NZ. <br><br></div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>174.791687,-37.006527,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ALB - Albany International Airport</name>
+    <description><![CDATA[From Pat O'Reilly in Albany, NY comes the latest addition. ALB's carpet
+says 'Woodstock may be miles away and 40 years ago but we are still
+enjoying the ride'.<br><img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1231637383849_1016561989_30766781_7306543_n.jpg"><br>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>-73.801346,42.747894,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ATH - Athens International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/p480x480/378819_2550474953964_1016561989_32828471_1034243980_n.jpg" style="width:245px"><br>ATH - Athens, Greece International Airport.  The hinge point of the European Debt Crisis, it is only fitting to have pyramids represented so well in the Athens carpet.  To be fair, Greece has a long and wonderful history and is on my Top 5 bucket list for visiting with my family.  Submitted by Mike Sparr, of the Montana Sparrs and CEO of Goomzee.  Thanks MIKE!</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>23.946136,37.936153,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ATL - Hartsfield-Jackson Atlanta International Airport</name>
+    <description><![CDATA[Hartsfield (ATL) carpet speaks to me.  It says things like 'delays are normal' and 'don't make me cancel your butt'.<br><img style="width:243px" src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc1/hs150.snc1/5569_1198592997760_1016561989_30652245_6298010_n.jpg"><br>]]></description>
+    <styleUrl>#style168</styleUrl>
+    <Point>
+      <coordinates>-84.421516,33.640060,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ATL - Hartsfield-Jackson Atlanta International Airport</name>
+    <description><![CDATA[ATL hits 'refresh' on their carpet.  Many thanks to David Harris for the view of the new carpet.<br><img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1227108350626_1016561989_30751897_2844954_n.jpg"><br>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>-84.434052,33.640633,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ATW - Outagamie County Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1283459079359_1016561989_30923682_1894003_s.jpg"><br><br>ATW - Outagamie County Regional Airport, Appleton, Wisconsin. You are getting sleepy, so very sleepy. Your eyes are very heavy, so very heavy. Gently close your eyes as we place you quietly on this 20 seat puddle jumper for the hair-raising trip to O'Hare or Detroit. Submitted by Jim Morabito, partner and managing director for BCG, Detroit.<br><br></div>]]></description>
+    <styleUrl>#style159</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value>Outagamie County Airport</value>
+      </Data>
+      <Data name="Address">
+        <value>W6390 Challenger Drive Appleton, WI 54914-9119</value>
+      </Data>
+      <Data name="Phone">
+        <value>(920) 832-5268</value>
+      </Data>
+      <Data name="Website">
+        <value>http://www.atwairport.com/</value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-88.510002,44.259567,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BAH - Bahrain International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-ash1/hs525.ash1/30876_1431955351673_1016561989_31307200_1654462_s.jpg"><br><br>BAH - Bahrain International Airport.  Keeping with this week's Middle Eastern theme, Nick Allan gives you Bahrain, Kingdom of the Two Seas (seriously, I can't make this stuff up).  This carpet is a fine representation of the Two Seas surrounding this archipelago of 33 islands.  Deep blue oceans, white sea spray, and undulating winds splash across this cool carpet.  Submitted by Nick Allan on his Middle Eastern tour.   </div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>50.633610,26.270832,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BFL - Meadows Field Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1286797122808_1016561989_30931222_941576_s.jpg"><br><br>BFL - Meadows Field Airport, Bakersfield CA. I don't even know where to start on this carpet. Combining black and dark grays together in a petri-dish of 'ick' doesn't say 'Welcome to Bakersfield'. Submitted by Rick Sherwood, Bakersfield local.</div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-119.056770,35.433598,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BKI - Kota Kinabalu International Airport (BKI)</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-ash2/hs608.ash2/156004_1646896525068_1016561989_31833876_6133643_s.jpg">BKI - This one is Kota Kinabalu (Malaysia) BKI. A bit of a shocker really from an airport that is the gateway to Malaysian Borneo. It should speak of Orang-Utans and the majestic jungle clad slopes of the 4,000 metre Mt. Kinabalu. Instead we have acres of tiles and a bit of this.  Both carpet and caption submitted by Nick Allan - world traveler extraordinaire.  <br></div>]]></description>
+    <styleUrl>#style165</styleUrl>
+    <Point>
+      <coordinates>116.051109,5.936944,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BKK - Suvarnabhumi International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1281283424969_1016561989_30917045_6714317_s.jpg">BKK - Suvarnabhumi International Airport, Bangkok Thailand.  I am stunned silent by this humble carpet.  With browns and golds working together, this carpet reminds me of a gorgeous sunlit day with small cottonball clouds lined up across the sky.  Beautiful!!  Submitted by my most ardent ACoW support, Lin McIntosh on her world travels. <br><br><br></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>100.750694,13.692298,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BMI - Central Illinois Regional Airport at Bloomington-Normal</name>
+    <description><![CDATA[Central Illinois Regional Airport - (BMI). Looks like the new Fidelity
+Investments 'follow the path' commercials except this one ends by
+running into a wall. Submitted by Lindsey Thomas, a new friend from
+Gainesville, FL<br><br><img style="width:245px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs075.snc3/14267_1261842218951_1016561989_30858515_3123336_n.jpg">]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>-88.917435,40.482220,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BNA - Nashville International Airport</name>
+    <description><![CDATA[Nashville (BNA). This carpet just screams 'Tetris' - and, yes, I am
+aging myself. Kudos to Kevin Greene from LPS for the addition to ACoW.<img style="width:243px" src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs264.snc1/9125_1241367627099_1016561989_30795820_6019602_n.jpg">]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-86.686073,36.125397,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BOI - Boise Air Terminal/Gowen Fld</name>
+    <description><![CDATA[<h3><font style="font-weight:normal" size="2"> BOI - Boise
+Airport. Sound waves intertwined in a linear conversation between
+monotone speakers. The mindless chatter at the corporate holiday party
+of two very bored cubicle dwellers.</font> <font style="font-weight:normal" size="2"><span style="font-family:arial,sans-serif">Submitted by Kelsie Geddes, the
+daughter of my work wife which probably makes her my work daughter.
+Back to work, work daughter, back to work!</span></font></h3><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1269402407951_1016561989_30880796_54129_s.jpg"><br><br><br>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-116.222733,43.569618,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BOM - Chhatrapati Shivaji International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-ash1/hs733.ash1/162720_1689054218984_1016561989_31926261_3403112_s.jpg"><br><br>BOM - Chattrapathi Shivaji International Airport, Mumbai, India.  Formerly called Bombay, Mumbai is the richest city in India and its carpet reflects this richness.  Blood Red infused with veins of green speaks to India's rich history through the last 75,000 years.  Submitted by Nick Allan, world traveler. </div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>72.867126,19.090479,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BRS - Bristol International Airport</name>
+    <description><![CDATA[<img src="http://photos-h.ak.fbcdn.net/hphotos-ak-ash2/hs181.ash2/44375_1517258564200_1016561989_31556035_4804925_a.jpg">BRS - Bristol, Wrington, North Somerset BS40, UK Almost paying homage to Ireland's shape with the dark green shapes, BRS carpet spills out a near the sea effect with tiny lighthouse beacons marking the way.&nbsp; Submitted by Nick Allan, local UK resident and world traveler. ]]></description>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>-2.710678,51.386230,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BSR - Basra International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-ash1/hs525.ash1/30876_1431069209520_1016561989_31305330_7518923_s.jpg"><br><br>BSR - Basra International Airport.  DaVinci Code meets the Middle East Desert.  I absolutely love this carpet's warm reception to Basra International Airport as it immediately conjures up thoughts of oasis (or mirages of oasis - your pick).  Submitted by Nick Allan on his recent journey through the Middle East. </div>]]></description>
+    <styleUrl>#style152</styleUrl>
+    <Point>
+      <coordinates>47.661945,30.548889,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BTR - Baton Rouge Metropolitan Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-ash1/hs468.ash1/25693_1351082649906_1016561989_31108386_3032023_s.jpg">BTR - Baton Rouge Airport.  Green and tan.  Grid and solid.  Replaceable squares and extremely 'conservative' representation.  This carpet is disturbing in its lack of originality and flair for the uniqueness of Louisiana especially such a cool city like BR.  Submitted by Brad Salter, a good friend from the 'Noke. </div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>-91.156464,30.532415,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BTV - Burlington International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs549.snc3/30076_1422115225676_1016561989_31284791_3133498_s.jpg"><br><br>BTV - Burlington, VT.  Not that is not typo, the airport code is BTV vs. BVT.  Unsure why and fairly irrelevant to this gallery but I noticed it.  The sample size is fairly small but from what I gather the designer imbued a psychedelic color selection into a fairly random pattern of "V"s for 'Vermont'.  Submitted by Bonnie Black, the very representation of awesome. <br></div>]]></description>
+    <styleUrl>#style130</styleUrl>
+    <Point>
+      <coordinates>-73.153053,44.471668,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BUF - Greater Buffalo International Airport</name>
+    <description><![CDATA[<img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs208.snc3/21570_1300973797216_1016561989_30978794_7812907_s.jpg"><br><br>BUF - Buffalo International Airport.&nbsp; Local attractions include Niagara Falls, Buffalo Bills, Theodore Roosevelt National Park, record snowfalls, etc.&nbsp; But this carpet simply says 'hey welcome to buffalo we are kinda happy you are here spill your coffee if you must because our carpet can TAKE ANYTHING YOU THROW AT IT!'.&nbsp; Submitted by Victor Lund, industry colleague and friend.&nbsp; <br>]]></description>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>-78.730751,42.933922,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BWI - Baltimore-Washington International Thurgood Marshall Airport</name>
+    <description><![CDATA[<h3 style="font-weight:normal"><font size="1">
+<font size="2">Baltimore-Washington International Thurgood Marshall (BWI). Purple and
+golden wool strands woven in patterns which say "We are the cool
+step-brother of DC but we ain't no DC". Submitted by the ever engaging
+Melissa Del Gaudio of Shepherdstown, WV.</font></font></h3><img src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs075.snc3/14267_1260175577286_1016561989_30854342_3031444_s.jpg"><br><br>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>-76.668335,39.175278,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BZN - Gallatin Field Airport</name>
+    <description><![CDATA[<div dir="ltr"><img style="width:245px" src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs613.snc4/59366_1554297050139_1016561989_31642682_5524052_n.jpg">BZN - Gallatin Field Airport.  Serving SW Montana and NW Wyoming including Yellowstone.  Gallatin is the gateway to extraordinary natural beauty.  On the other hand, the carpet portrays more of a plains-type look with its corn kernel appearance in neatly napped rows.   Show me a fish, a tree, a mountain, or a lake!  Submitted by Wayles Dandridge of the Roanoke Dandridges.    <br></div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-111.160423,45.776981,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CDG - Aeroport de Paris - Roissy Charles de Gaulle</name>
+    <description><![CDATA[Submitted by Cabell Youell - Terminal 2E of Charles De Gaulle Airport<br><img style="width:243px" src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1233010898186_1016561989_30770884_268107_n.jpg"><br>]]></description>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>2.567539,49.001957,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CEC - Del Norte County Airport</name>
+    <description><![CDATA[<div dir="ltr"><img style="width:245px" src="http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs091.ash2/37878_1482946186412_1016561989_31452844_8333744_n.jpg">CEC - Jack McNamara Field (Del Norte County Airport). Airport is named after the landowner who sold the land to the county.  United Express is the only commercial service in/out of CEC.  Must not have had a lot of money left over for carpet as this one is a real snoozer.  The 1970s are calling and they want their floor covering back.  Submitted by Dave Rifkin, VP of Sales for FBS. </div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-124.236389,41.779999,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CEI - Chiang Rai Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1281286785053_1016561989_30917046_3658497_s.jpg">CEI - Chiang Rai Airport, Chiang Rai Thailand.  While this airport is located about as far North in Thailand as you could possibly travel, the carpet speaks of fishing villages, waters teeming with fish, and fishermen always mending their broken nets.  Submitted by Lin McIntosh, again my most prolific iCarpeteer.  <br><br><br></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>99.878769,19.946241,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CGK - Soekarno-Hatta International Airport (CGK)</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc4/hs1211.snc4/156362_1664062834215_1016561989_31867016_1619895_s.jpg">CGK - Soekarno-Hatta International Airport Tangerang, Indonesia.  My brain is in molasses on this one.  Looking for your descriptions of Jakarta's airport carpet.  Submitted by Nick Allan, world traveler. <br></div>]]></description>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>106.661354,-6.123949,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CHC - Christchurch International Airport (CHC)</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/hs307.snc6/181583_1739578362056_1016561989_32028581_3835881_a.jpg"><br><br>CHC - Christchurch, New Zealand.  Situated on the South Pacific, Christchurch's airport carpet is a solid representation of the locale.  Blue-gray waters tipped with lines of white caps beckons all.  Submitted by Margaret O'Sullivan Bielecki, on her amazing bike trip to New Zealand.  <br></div>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>172.538284,-43.487694,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CHO - Charlottesville-Albemarle Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-ash1/hs754.ash1/164563_1724274379466_1016561989_32001495_672253_s.jpg"><br><br>CHO - Charlottesville-Albemarle Airport, Virginia.  Home of the Cavaliers.  Its airport carpet is the fodder for an electrician/computer technician's worst nightmare.  Or maybe it is a road map for the DC area.  Submitted by Victor Dandridge, local C-ville resident. <br></div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-78.449455,38.139263,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CLE - Cleveland-Hopkins International Airport</name>
+    <description><![CDATA[CLE - Cleveland-Hopkins International Airport.&nbsp; Look up 'noncommittal' on Wikipedia and you will see a picture of this carpet.&nbsp; From the removable adhesive-backed tiles to the nondescript earth tone patterns, 'we are Cleveland nothing to see here please keep moving' resonates loudly from this fine selection.&nbsp; Submitted by Syd Killion Matejka, a fellow Red Oak native from the old school.&nbsp; (and the Browns are pitiful as well so there...)<br><br><img style="width:245px" src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1269438848862_1016561989_30880927_3574229_n.jpg"><br>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-81.834694,41.411674,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CLT - Charlotte Douglass International Aiport</name>
+    <description><![CDATA[Ignore the shoe.  CLT airport carpet. Never noticed how well it hides gum. 3 pieces in the pic - Gate B5 facing the main aisle.<br><img style="width:243px" src="http://photos-b.ak.fbcdn.net/photos-ak-sf2p/v653/69/121/1016561989/n1016561989_30496944_6199294.jpg">]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-80.944176,35.219398,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CLT - Charlotte Douglass International Aiport (International Terminal)</name>
+    <description><![CDATA[Charlotte International Terminal (CLT). Also known as D-Gates, the
+place where people go to wait, and the land of the lost. Steve Byrd
+added this one on his way to Tahoe for #CMLS. Nice new carpet.<br><img style="width:243px" src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc1/hs211.snc1/7830_1231855149293_1016561989_30767554_5977887_n.jpg"><br>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>-80.936455,35.217434,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CMB - Bandaranaike International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/p480x480/402999_2853521369935_1016561989_32960644_2015603367_n.jpg" style="width:245px">CMB - Bandaranaike International Airport, Sri Lanka.  My 'merican' is showing or maybe I am just hungry but I swear this carpet is covered with miniature hotdogs on buns.  In more 'merican term: pigs in a blanket.  Submitted by world traveler, Nick Allan</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>79.884148,7.181686,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CNS - Cairns Airport</name>
+    <description><![CDATA[CNS - Cairns (pronounced "cans") in tropical north queensland. Serviced
+by the Queensland and Norther Territory Airline Service (Qantas).
+submitted by Cheri Pullman<img src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1236818873383_1016561989_30783185_8026792_n.jpg">]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>145.760941,-16.878147,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CNX - Chiang Mai International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-ash1/hs482.ash1/26415_1390099825311_1016561989_31208235_1755418_s.jpg"><br><br>CNX - Chiang Mai Thailand.  Crouching Tiger, Hidden Dragon..  Subdued Reds highlighted with Whites and infused with Grayish Greens gives this carpet an almost Lily Pulitzer feel.  And in crossing my eyes, I see octopus tentacles as a montage.  Submitted by Nick Allan, who is intent on keeping me supplied with exotic locales! </div>]]></description>
+    <styleUrl>#style162</styleUrl>
+    <Point>
+      <coordinates>98.965012,18.768026,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CPT - Cape Town International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img style="width:245px" src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs228.snc3/21570_1311448419075_1016561989_31007895_8040559_n.jpg"><br><br>CPT - Cape Town International Airport.  Having never traveled to Capetown, this carpet says 'welcome to a tropical paradise'.  True or not, I am just not sure but the messaging is clear.  Submitted by Sean Doherty, of the Doherty Scots. <br></div>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>18.611626,-33.967007,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CVG - Cincinnati-Northern Kentucky International Airport</name>
+    <description><![CDATA[Cincinnati and Salt Lake - Delta Hubs.  Same Carpet. Coincidence or no?  Maybe a new plot for an X-files movie.<img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc1/hs211.snc1/7830_1235734246268_1016561989_30780887_1942070_n.jpg">]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>-84.668884,39.049984,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DAL - Northwest Dallas/Love Field</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc3/hs536.snc3/30426_1413457329234_1016561989_31263719_4575025_s.jpg"><br><br>DAL - Dallas Love Field.  Can you connect all of these squares without lifting your pencil?  This carpet was pretty back in the 70s.  Submitted by Boyd Bell, one of my ISU buddies.  <br><br><br></div>]]></description>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>-96.867264,32.834393,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DCA - Ronald Reagan Washington National Airport</name>
+    <description><![CDATA[<div><div>DCA
+- Ronald Reagan Washington National Airport. Is this a visual reference
+to our national debt using lines in the carpet to signify stacks of
+money? Or is it the data screen from the Matrix? Submitted by Greg and
+Dawn Beals - my Somerset, PA family.<img style="width:245px" src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs068.snc3/13535_1264399642885_1016561989_30866705_5568742_n.jpg"><br><br></div></div>]]></description>
+    <styleUrl>#style172</styleUrl>
+    <Point>
+      <coordinates>-77.041443,38.849331,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DEL - Indira Gandhi International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-ash4/249571_1998791442221_1016561989_32367151_2146480_s.jpg">DEL - New Delhi's Indira Ghandi Airport terminal 3. A brand new terminal and I think they realised the potential of making it a must see destination for iCarpeteers. Just magnificent! Submitted by Nick Allan - iCarpeteer Hall of Famer!!  </div>]]></description>
+    <styleUrl>#style139</styleUrl>
+    <Point>
+      <coordinates>77.094055,28.558321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DFW - Dallas/Fort Worth International Airport</name>
+    <description><![CDATA[Dallas Fort Worth (DFW) - calming earth tones mixed with a blue-gray
+stripe. submitted by Steve Byrd (@byrdtweets) from Charlotte, NC<img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs277.snc1/10425_1245221763450_1016561989_30808446_6153392_n.jpg">]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-97.050987,32.890545,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DFW - Dallas/Fort Worth International Airport</name>
+    <description><![CDATA[Dallas Fort Worth (DFW) - this carpet doesn't scream "Texas - the 2nd
+largest state in the Union". Submitted by Steve Byrd (@byrdtweets) from
+Charlotte, NC.<img style="width:243px" src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs277.snc1/10425_1245221803451_1016561989_30808447_720788_n.jpg">]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>-97.054939,32.894581,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DFW - Dallas/Fort Worth International Airport</name>
+    <description><![CDATA[Dallas Fort Worth (3rd unique carpet). Same carpet as Cincinnati and
+Salt Lake. Not sure of mfg but a nice sales win to grab same carpet for
+all three airports. Submitted by Steve Byrd (@byrdtweets).<img style="width:243px" src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc1/hs204.snc1/7125_1245222763475_1016561989_30808448_6960185_n.jpg">]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-97.030045,32.892418,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DIA - Denver International Airport</name>
+    <description><![CDATA[Denver (DIA) carpet is a lovely deep red with grayish blue overtones.
+Pattern hints to the physical airport layout in it's geometric
+precision.<br><img style="width:243px" src="http://photos-d.ak.fbcdn.net/photos-ak-sf2p/v5203/69/121/1016561989/n1016561989_30627708_1027483.jpg"><br>]]></description>
+    <styleUrl>#style171</styleUrl>
+    <Point>
+      <coordinates>-104.702454,39.850719,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DIA - Denver International Airport (United Terminal)</name>
+    <description><![CDATA[United side of DIA. Who in the world puts a huge RED stripe in an
+airport terminal? DIA does.... Let's all hold-short awaiting another
+delay, please.....<img style="width:243px" src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc1/hs211.snc1/7830_1223961071946_1016561989_30739750_1480047_n.jpg">]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>-104.666924,39.848083,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DIA - Denver International Airport (Concourse B)</name>
+    <description><![CDATA[Denver Airport (DIA). Baby plane area in Concourse B. Looks like a bad
+homework assignment with lots of pencil eraser marks. Submitted by Troy
+Feeken from FBS - Fargo, ND.<img style="width:243px" src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs080.snc3/14744_1249524911026_1016561989_30820654_213293_n.jpg">]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-104.664001,39.875492,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DMK - Don Muang International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1279898150338_1016561989_30913344_1767564_s.jpg">Zigzag lines of blues, greens, and yellows - this carpet makes me think of the 1970s opium dens with beads hanging in doorways, smoke clouding the room, and a Thai cover band belting out 1960s music.  Submitted by Lin McIntosh on her trip around the world.<br></div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>100.746513,13.691008,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DOH - Doha International Airport</name>
+    <description><![CDATA[<div dir="ltr">DOH - Doha International Airport, Qatar.  Spaghetti noodles served in a thin red sauce makes this carpet one of my least favorites.  Inflaming passions which should be suppressed in this part of the world.  Submitted by Nick Allan, my ever prolific carpeteer<br><br></div>
+
+https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/p480x480/297978_2395741005712_1016561989_32761840_1621502228_n.jpg]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>51.571884,25.257505,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DPS - Denpasar International Airport, Bali, Indonesia</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/317153_2278503514848_1016561989_32665510_1477237353_n.jpg" style="width:245px">Nick Allan comments - "A low point this in my opinion. From the airport you can see across the bay to the surf Mecca that is Uluwatu and as you taxi along the runway there is a reef break right next to you with surfers riding the waves.<br>Somehow this airport carpet is all wrong."   I concur with his assessment.</div>]]></description>
+    <styleUrl>#style145</styleUrl>
+    <Point>
+      <coordinates>115.167503,-8.744221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DTW - Detroit Metropolitan Wayne County Airport</name>
+    <description><![CDATA[Detroit's new terminal (DTW) - nice Midwest grids.<br><img style="width:243px" src="http://photos-b.ak.fbcdn.net/photos-ak-sf2p/v5203/69/121/1016561989/n1016561989_30656939_130590.jpg"><br>]]></description>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>-83.359451,42.200294,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DTW - Detroit Metropolitan Wayne County Airport</name>
+    <description><![CDATA[Detroit Metro (DTW). I have already added Terminal C but Terminal A has
+different carpet. Probably a union-mandated switch. Thanks to Jim
+Morabito, managing director/partner for BCG - Detroit.<img style="width:243px" src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs221.snc1/6816_1239982112462_1016561989_30792690_3320384_n.jpg">]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>-83.346581,42.203091,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DXB - Dubai International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-ash1/hs525.ash1/30876_1430100425301_1016561989_31303468_2744812_s.jpg"><br><br>DXB - Dubai International Airport.  Blood red dunes, desert sandstorms, and sharp edged scimitars emerge from this fabulous carpet in the United Arab Emirates.  Listed as the most Westernized of the Middle Eastern countries (no insult intended please don't jihad me), UAE's choice of carpet is a throwback to Arabian Nights.  Submitted by Nick Allan on a tour of the Middle East.  </div>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>55.364445,25.252777,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>EDI - Edinburgh International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1281272584698_1016561989_30917034_4039396_n.jpg">EDI - Edinburgh International Airport Scotland, UK. The Scots have outdone themselves on this carpet selection. The muted blue/gray undertones with flecks &amp; veins of gold overtones invokes strong currents of Scottish heritage. Submitted by Roanoke's favorite Scotsman, Sean Doherty.<br><br><br></div>]]></description>
+    <styleUrl>#style154</styleUrl>
+    <Point>
+      <coordinates>-3.357001,55.950279,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ERI - Erie International Airport Tom Ridge Field</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-ash1/hs740.ash1/163274_1716296820032_1016561989_31984170_2821381_s.jpg">ERI - Erie International Airport Tom Ridge Field.  Ridge must have picked this carpet out himself during his tenure with Homeland Security as it reflects the current myriad of airline security protocols.  Byzantine would be too kind for this labyrinth of rooms &amp; passages imbued in this carpet.  Submitted by Nikki Baldwin, former colleague and RPR's most-excellent national trainer. <br></div>]]></description>
+    <styleUrl>#style166</styleUrl>
+    <Point>
+      <coordinates>-80.180840,42.085068,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>EWR - Newark Liberty International Airport</name>
+    <description><![CDATA[<div dir="ltr">EWR - Newark International Airport.  Yet to find favor with any traveler, Newark's carpet is a blend of dark brooding blues with a not so subtle hint of 'don't look too close'.  Submitted by Kevin Greene's mother on her way to London.  <br><br><img src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1279057289317_1016561989_30910788_1426642_s.jpg"><br></div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-74.178207,40.689869,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>FAR - Hector International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs448.snc3/25693_1350059104318_1016561989_31106143_6046136_s.jpg">FAR - Hector International Airport.  Turn it 90 degrees and this carpet becomes a blurred version of Donkey Kong from the 1980s.  Turn it another 90 degrees and it is the grid-based road system without the East-West roads.  Confused yet?  I know I am.  Submitted by Troy Feeken, my good friend who resides year round in Fargo.</div>]]></description>
+    <styleUrl>#style176</styleUrl>
+    <Point>
+      <coordinates>-96.825455,46.918552,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>FCO - Leonardo Da Vinci International Airport - FCO</name>
+    <description><![CDATA[<img style="width:231px" src="http://hphotos-snc3.fbcdn.net/hs222.snc3/20970_1292759911874_1016561989_30949734_2996326_n.jpg">FCO -&nbsp; Leonardo da Vinci - Fiumicino Airport, Rome.&nbsp; da Vinci definitely left a code in this carpet combined with multiple blood splatters.&nbsp; Nothing says 'Crusade' more than this carpet.&nbsp; Submitted by Joshua Darnell on his trip around the world. <br><br><br>]]></description>
+    <styleUrl>#style138</styleUrl>
+    <Point>
+      <coordinates>12.238330,41.799999,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>FLG - Flagstaff Pulliam Airport</name>
+    <description><![CDATA[<div dir="ltr"><img style="width:245px" src="http://sphotos.ak.fbcdn.net/hphotos-ak-ash1/hs435.ash1/24034_1381498690288_1016561989_31185364_7577487_n.jpg"><br>FLG - Flagstaff Pulliam Airport. Arizona is the 'we are adamant in reminding you of your current location in an airport'. Another airport with airplanes in the carpet (PHX is the other) but this one actually represents progress with airplanes heading towards something. The apparent gridlock is slightly disconcerting - a sign of things to come? Submitted by Nikki Baldwin, of the Inman News.</div>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>-111.671112,35.138332,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>FLL - Fort Lauderdale-Hollywood International Airport</name>
+    <description><![CDATA[Kristen Carr on her way to CMLS added the ever floral Fort Lauderdale
+Airport (FLL) to the collection. Pattern is a soothing reminder of the
+drapes / sofa ensemble for South Florida retirees. It screams 'welcome
+home'.<br><img style="width:243px" src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc1/hs211.snc1/7830_1231855189294_1016561989_30767555_7197844_n.jpg"><br>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-80.150246,26.069427,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>FRA - Frankfurt International Airport</name>
+    <description><![CDATA[FRA - Frankfurt Airport. German efficiency at its finest. Looks like a
+topo-map outlining the retaking of France. Or it could be a microscopic
+view of the H1N1 virus. Submitted by my Beta brother, Michael Kellen.<br><br><br><br><img style="width:245px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs068.snc3/13535_1264407163073_1016561989_30866772_1949746_n.jpg">]]></description>
+    <styleUrl>#style136</styleUrl>
+    <Point>
+      <coordinates>8.576667,50.031113,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>FWA - Fort Wayne International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-ash1/hs468.ash1/25693_1351031768634_1016561989_31108296_588339_s.jpg">FWA - Fort Wayne International Airport.  Glaciers, blue ice, crevasses, precipices, arctic chill.  But why in Fort Wayne, Indiana? Submitted by Laura Raudonis, a very good friend newly residing in Fort Wayne. </div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-85.188271,40.986500,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GEG - Spokane International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs228.snc3/21570_1311431658656_1016561989_31007861_3549948_s.jpg"><br><br>GEG - Spokane International Airport.  Jellyfish, Jellyfish, Jellyfish.  Why does Spokane's carpet trigger thoughts of Jellyfish?  Maybe it is the jellyfish-laden carpet though some would say it is more emoticon than jellyfish.  Submitted by Kerry Rakuson on her way through Spokane to points unknown. </div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-117.537468,47.625008,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GLA - Glasgow International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/185232_2159858228790_1016561989_32544732_8009876_s.jpg">GLA - Glasgow International Airport, Glasgow Scotland.  Home to one of my most prolific iCarpeteers, I would be sorely misguided to comment on this carpet in any manner besides 'here it is...'  Now, haggis for all!  Submitted by Nick Allan - iCarpeteer Hall of Famer!</div>]]></description>
+    <styleUrl>#style146</styleUrl>
+    <Point>
+      <coordinates>-4.432343,55.864552,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GNV - Gainesville Regional Airport</name>
+    <description><![CDATA[Gainesville, FL (GNV) Home to the Florida Gators and some very Pablo
+Picasso-ish carpet. This carpet says "we refuse to commit' or 'remnant
+sale'. Submitted by my new friend Lindsey Thomas.<img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc3/hs080.snc3/14744_1255392457711_1016561989_30839713_3446330_n.jpg">]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>-82.270775,29.688648,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GPT - Gulfport-Biloxi International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://hphotos-snc3.fbcdn.net/hs228.snc3/21570_1317266204516_1016561989_31023845_5095578_n.jpg"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc4/hs230.snc4/38820_1487534861126_1016561989_31465908_3504567_s.jpg"><br><br>GPT - Gulfport / Biloxi International Airport.  Rendered speechless by this carpet.  If this carpet was replaced after Hurricane Katrina, someone has a lot of explaining to do.  A Silly String brawl, possibly?  Gold and green representing what?  I am just confused by this choice.  Submitted by Cecelia Crow, a good friend for remembering the ACoW gallery. </div>]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>-89.072960,30.413380,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HEX - Herrera International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs491.snc3/26865_1367199092807_1016561989_31147695_3486794_s.jpg"><br>HEX - Herrera International Airport, Santo Domingo, Dominican Republic.  Snoozer, absolute snoozer.  The cable went out and all we have is static on the screen.  Submitted by Phyllis Norbo on a mission trip with 2nd Presbyterian Church (Roanoke).  </div>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-69.969444,18.468889,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HHI - Hilton Head Airport</name>
+    <description><![CDATA[<div dir="ltr"><img style="width:245px" src="http://hphotos-snc3.fbcdn.net/hs228.snc3/21570_1303226973544_1016561989_30986112_1368979_n.jpg"><br><br>HHI - Hilton Head Island. A muted combination of tropicality (is that even a word) and South Carolina low country charm. Beckons you to a world of sweet tea, Southern charm, and syrupy accents combined with pink button downs and khaki pants. Submitted by Patti Chiacchiero, Hilton Head resident from way back.</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-80.696136,32.222443,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HIA - Harrisburg International Airport Olmsted Field</name>
+    <description><![CDATA[Harrisburg, PA (HIA). Is the carpet leftover from the Three Mile Island
+incident back in 1979? Submitted by Kevin Hughes (aka: Huey) - one of
+my business partners and a good friend.<img style="width:243px" src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs060.snc3/14744_1255313455736_1016561989_30839396_5037590_n.jpg">]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-76.769547,40.197365,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HKG - Hong Kong International</name>
+    <description><![CDATA[Hong Kong International Airport (HKG). Looking very much like a game of
+Chinese Checkers go awry. Submitted by my good friend, Rebecca Jensen
+from SLC, Utah.<img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs060.snc3/14744_1250039323886_1016561989_30822054_6740256_n.jpg">]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>113.926590,22.311451,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HKT - Phuket International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs502.snc3/26415_1390103425401_1016561989_31208236_217474_s.jpg"><br><br>HKT - Phuket Thailand. A very, very surprising (yet somewhat disappointing) show from Thailand.  I just don't think of Thailand as rectangular nor orderly especially in today's world yet here is their version of Tetris.  The tans and light blues do hint at the paradise-like quality of Phuket's beaches but the overall appearance is lacking.  Submitted by Nick Allan, Asian traveler.</div>]]></description>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>98.306595,8.107674,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HND - Haneda Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc4/hs678.snc4/61819_1546029163447_1016561989_31621938_5980616_s.jpg"><br>HND - Haneda Airport (formerly known as Tokyo International).  It has taken 32 long years for HND to resume international flights against the then upstart Narita but don't call it a comeback just yet.  This carpet shows Narita as still old skool, a veritable Model T in a Indy 500 race.  New runway - check.  New international terminal - check.  Poor choice in floor covering - check. check..  Submitted by Nick Allan, world traveler.<br><br>HND - formerly <img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-ash4/195882_1849100220034_1016561989_32163038_1641067_s.jpg">Tokyo International Airport (Haneda).&nbsp; Brand new terminal with a very interesting black light/glowing carpet.&nbsp; As this shot was taken before the earthquake, we will comment on its interesting contrast without venturing into forbidden territory.&nbsp; Submitted by Nick Allan, Asia traveler. <br></div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>139.783859,35.548851,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HNL - Honolulu International Airport</name>
+    <description><![CDATA[Lin McIntosh's Honolulu Carpet is making an appearance in my gallery.<br><img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1217648114126_1016561989_30718609_4690068_n.jpg"><br>]]></description>
+    <styleUrl>#style167</styleUrl>
+    <Point>
+      <coordinates>-157.915070,21.323919,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HNL - Honolulu International Airport</name>
+    <description><![CDATA[Honolulu International Airport (HNL). Interisland terminal. I can hear
+the waves crashing against the shore and the ocean breezes wafting
+through the palm trees. Thank you, Lin McIntosh, my 34 degree morning
+feels that much colder.<br><img style="width:243px" src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc1/hs244.snc1/9125_1243871409692_1016561989_30804489_4402808_n.jpg"><br>]]></description>
+    <styleUrl>#style164</styleUrl>
+    <Point>
+      <coordinates>-157.924866,21.325197,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HSV - Huntsville International Airport-Hsv</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/hs279.snc6/180761_1739578602062_1016561989_32028582_2763522_a.jpg"><br><br>HSV - Huntsville Alabama Airport.  Home of the US Space &amp; Rocket Center.  Harking back to the introduction of color tv, this carpet reminds me of rabbit ear antennae, constantly trotting up to adjust the picture, and only 3 channels.  In other words, the GOOD old days.  Thanks to Bill Fowler, a local Huntsville native for his first (of many) submissions.  </div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-86.772163,34.643387,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HOU - William P. Hobby Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1284334061233_1016561989_30925910_7012634_s.jpg"><br><br>HOU - William P. Hobby Airport, Houston, TX.  Named after a former Texas governor.  Of course this carpet would include earth tones with intertwined rope as representative of the Texas cattlemen's heritage. Submitted by Larry Spencer, good friend and colleague. <br><br></div>]]></description>
+    <styleUrl>#style143</styleUrl>
+    <Point>
+      <coordinates>-95.275772,29.655336,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HPN - Westchester County Airport</name>
+    <description><![CDATA[White Plains, NY  Can anyone say 'kaleidoscope'? I can... Or one massive sheet of Easter Skittles. Hmm.. Submitted by my good friend, Patty Connor.<br><img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs075.snc3/14267_1258140486410_1016561989_30847627_708683_n.jpg"><br>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-73.714653,41.063290,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>IAH - George Bush Intercontinental/Houston</name>
+    <description><![CDATA[<div dir="ltr"><img style="width:245px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1265187742587_1016561989_30869338_2957798_n.jpg">IAH - George Bush Intercontinental/Houston Airport. It looks very similar to the Chicago River the day after St. Patrick's Day. Murky with a greenish blue hue. Not sure why "I see dead people" is floating through my brain but there it is.... Submitted by Kelly Blevins, an absolute rock star from West Palm Beach, FL.<br><br><br></div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-95.340118,29.993427,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ICN - Incheon International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-ash2/hs564.ash2/148610_1617576632089_1016561989_31778311_5115431_s.jpg">ICN - Incheon International Airport - South Korea's largest airport.  Reflective tape everywhere, reflective tape everywhere.  This carpet just says 'glow in the dark reflective tape'.  I wonder what it looks like when the airport is completely dark?  Is it bright? Submitted by Nick Allan - world traveler extraordinaire.  </div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>126.451164,37.448734,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ICT - Wichita Mid-Continent Airport</name>
+    <description><![CDATA[Airplane capital of the world - Wichita (ICT)<br><img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs150.snc1/5569_1199706585599_1016561989_30656938_7116575_n.jpg"><br>]]></description>
+    <styleUrl>#style140</styleUrl>
+    <Point>
+      <coordinates>-97.428986,37.644413,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ILM - New Hanover International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc4/hs127.snc4/36731_1455514940648_1016561989_31376362_628350_s.jpg"><br><br>ILM - New Hanover International Airport, Wilmington, NC.  Must be snack time as I am seeing mint chocolate chips and vanilla ice cream mixed with chocolate syrup just reaching the temperature where it all blends together in a fantastic smoothie-textured confab.  Looking down at this carpet would make me search out a DQ or Cold Stone Creamery.  Submitted by Brian Bell of the Wilmington Bells (okay, I made the Wilmington Bells part up but it sure has a 'ring' to it). </div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>-77.915375,34.268108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>IND - Indianapolis International Airport</name>
+    <description><![CDATA[Indianapolis Carpet thanks to Karen Leonardi..  Ummm.  No Brickyard reference?  How about a checkered flag at least?<br><img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1235732846233_1016561989_30780880_4614158_n.jpg"><br><br>Another view of the Indy carpet. Some motif, different color. Earth
+tones imbued with a leaf montage. Awesomeness from the Midwest.
+Submitted by Carrie Kendall, executive officer extraordinaire from
+Lafayette, IN.<br><br><img style="width:245px" src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs048.snc3/13535_1264409163123_1016561989_30866775_390683_n.jpg"><br>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-86.295715,39.709698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>INV - Inverness Airport, Dalcross</name>
+    <description><![CDATA[INV - Inverness, Scotland.&nbsp; The mouth of the river Ness.&nbsp;&nbsp; This carpet had the opportunity to welcome travelers to a land steep in tradition, a land of Scottish Pride, the gateway to the Highlands.&nbsp;&nbsp; I'll just leave it at #carpetfail.&nbsp; Submitted by Nick Allan, local UK resident and world traveler. <img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc4/hs258.snc4/40245_1517258644202_1016561989_31556036_199804_a.jpg"><br><a href="http://maps.google.com/maps/place?ftid=0x488f7856463d75cf:0x1c91160f2693170a&amp;q=Inverness+Airport,+INV,+United+Kingdom&amp;hl=en&amp;cad=src:ppiwlink&amp;ei=fYtuTIyaA5CyoASJlvTQBg&amp;dtab=5" target="_blank"><br></a>]]></description>
+    <styleUrl>#style177</styleUrl>
+    <Point>
+      <coordinates>-4.063450,57.540962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ITO - Hilo International Airport</name>
+    <description><![CDATA[Hilo, HI Airport (ITO). Hilo's airport carpet is a confusing mish-mash
+of interconnected lines. This carpet says "traipse on me quickly".<img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc1/hs244.snc1/9125_1243871369691_1016561989_30804488_4629110_n.jpg">]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-155.047134,19.720495,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>JAC - Jackson Hole Airport</name>
+    <description><![CDATA[Jackson Hole (JAC) carpet looks, well, weird. Like a mid-summer's night
+dream layered with a gingerbread house. (submitted by Bill Durham,
+Hilton Head MLS staffer-extraordinaire)<br><img style="width:243px" src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1237593612751_1016561989_30785200_2592175_n.jpg"><br>]]></description>
+    <styleUrl>#style127</styleUrl>
+    <Point>
+      <coordinates>-110.736351,43.601028,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>JAX - Jacksonville International Airport</name>
+    <description><![CDATA[<div dir="ltr"><font size="2">Jacksonville International Airport (JAX). Another pic of JAX but
+different terminal. Looks like a bigger, slower version of 'Tetris'.
+Submitted by Ron Stephan, CEO extraordinaire from the NE Florida MLS.</font><br><br><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs075.snc3/14267_1260423143475_1016561989_30854885_5530998_s.jpg"><br><br></div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-81.683449,30.491352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>JNB Johannesburg (Tambo) International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs228.snc3/21570_1311441138893_1016561989_31007875_4217214_s.jpg">JNB - Tambo International Airport. Minneapolis, MN and Johannesburg must be sister cities as the airport carpet is almost identical. Waves of heat emanating from whirlpools. Submitted by Sean Doherty, my favorite SCOT!<br></div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>28.241550,-26.136156,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KBV - Krabi International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc6/hs023.snc6/165355_1715496680029_1016561989_31983034_1242799_s.jpg"><br><h6 style="font-weight:normal"><font size="2"><span>KBV
+ - Krabi International Airport, Krabi, Thailand.  Located near the 
+Andaman Sea, Krabi is the gateway to the beautiful beaches of Thailand. 
+ This carpet, on the other hand, looks like an satellite image of an 
+urban planner go mad.  Submitted by Nick Allan, world traveler.</span></font></h6><br><br><br></div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>98.978310,8.097004,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KUL - Lapangan Terbang Antarabangsa Kuala Lumpur (klia) (KUL)</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc4/hs996.snc4/76928_1647982832225_1016561989_31836737_3433827_s.jpg">KUL - Lapangan Terbang Antarabangsa Kuala Lumpur Malaysia.  I just like the way the name rolls off the tongue.  Either an immense bloodbath or a surgeon's up-close view of the inner workings of one's heart.  Either way, I am fascinated, amused, and amazed by the design &amp; color of this carpet.  Thanks again to Nick Allan for continuing to submit such impressive photos.<br></div>]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>101.704613,2.754140,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LAN - Capital City Airport</name>
+    <description><![CDATA[<img style="width:231px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-ash1/hs470.ash1/25790_1358254309193_1016561989_31126803_2956443_n.jpg"><br>LAN - Lansing Capital Region International Airport. The din veritably
+overwhelms one's sight in this example of airport carpet gone wrong.
+Are those slugs doused in blood? Hey Lansing, the 70s called to ask you
+to return their montage. Submitted by Kevin Greene, father of the
+Greene Beans in Jacksonville, FL.]]></description>
+    <styleUrl>#style41</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.589485,42.774658,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LAS - McCarran International Airport</name>
+    <description><![CDATA[From Seain Conover, Las Vegas Carpet.  And he hasn't lost his shoes.... yet.<br><img src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1233525311046_1016561989_30772126_3967091_n.jpg"><br>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>-115.164528,36.082958,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LAX - Los Angeles International Airport</name>
+    <description><![CDATA[Los Angeles International (LAX) - looks a lot like the California
+freeway system to me. If I squint hard, I think I see OJ. (submitted by
+Heather Krueger - world famous Alaska Airlines senior flight attendant)<img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1237593572750_1016561989_30785199_3154529_n.jpg">]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-118.401031,33.943218,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LBB - Lubbock Preston Smith International Airport</name>
+    <description><![CDATA[<div dir="ltr">LBB - Lubbock Preston Smith International Airport.  Royal tapestry gone amok!  I am a big fan of recycling but using Grandma's couch from 1968 as the basis for airport carpet is just all kinds of wrong.  Submitted by another lifelong friend, Scott Parrish. <br><br><img src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1275398557851_1016561989_30900870_7425409_s.jpg"><br></div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-101.822296,33.655964,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LGA - La Guardia Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs511.snc3/26865_1367210173084_1016561989_31147699_5735027_s.jpg"><br><br>LGA - La Guardia International Airport, Queens, NY.  Runways ending in Flushing Bay..  Spiderwebs blanket this gray striped carpet as an indicator of the amount of time you will spend trying to leave LGA.  On-time departures are a stunning 57% - very nice to know you have an almost 50/50 chance of being late.  Submitted by Troy Feeken, of the Fargo Feekens.  </div>]]></description>
+    <styleUrl>#style121</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.871925,40.773922,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LGB - Long Beach Airport</name>
+    <description><![CDATA[Long Beach Airport - looks like jellyfish caught in a net.  Submitted by Suzanne Harris.<img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs080.snc3/14744_1251517640843_1016561989_30824720_673904_n.jpg">]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-118.150063,33.813953,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LGK - Langkawi International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-ash4/301974_2231367936488_1016561989_32628300_1057101576_s.jpg"><br><br>LGK - Langkawi, Malaysia International airport situated on the duty-free island in the state of Kedah. Flowing fishing nets in the South China Sea are represented well in this airport carpet.  Submitted by Nick Allan who continues to amaze me with his ventures.  </div>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>99.728798,6.329579,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LGW - London Gatwick Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc4/hs258.snc4/40245_1517258684203_1016561989_31556037_2763304_a.jpg">LGW - London Gatwick.  Richard de Warwick assigned the rights to this land to the Garwick family in 1241 so this name has been around a long time.  The carpet makes me (maybe not others) think of the English Channel in the winter months.  Whipping white caps, dark green angry seas, and a hint of frigid temps.  Submitted by Nick Allan, local UK resident and world traveler <br></div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-0.177000,51.161827,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LHR - London Heathrow International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs448.snc3/25693_1351035128718_1016561989_31108299_4351607_s.jpg">LHR - London Heathrow International Airport.  Is it carpet or is it marble?  Rorschach would have a field day asking air travelers to 'describe' the images appearing within this beautiful example of airport carpet.  Submitted by Nick Allen, a new friend &amp; world traveler.  <br></div>]]></description>
+    <styleUrl>#style153</styleUrl>
+    <Point>
+      <coordinates>-0.453424,51.470345,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LIH - Lihue Airport Kauai, Hawaii</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc4/hs075.snc4/35115_1485204122859_1016561989_31458970_2994055_s.jpg"><br>LIH - Kauai Airport, Hawaii.  Go this way. Wait go this way.  For baggage claim, please follow the blue arrows.  You have now arrived.  Thank you for visiting Kauai. Aloha.  Just not what one expects when stepping off the plane into a tropical paradise.  Submitted by Liz Frankl of the Roanoke Frankls.  </div>]]></description>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>-159.338608,21.975834,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LIS - Lisboa Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc4/hs436.snc4/47893_1541467649412_1016561989_31610002_1970273_s.jpg">LIS - Lisboa International Airport, Lisbon Portugal.  How you do say "Skittles" in Portuguese?  "Skittles", right?  As in "Quem jogou o Skittles?" - which I believe is Portuguese for "Who dumped the Skittles?".  Submitted by Sarah Killion Matejka, a hometown friend from way back.  <br></div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-9.129100,38.770401,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MAN - Manchester England Airport</name>
+    <description><![CDATA[<div dir="ltr">MAN - Manchester England, UK. With an airport code of MAN, one would
+think the carpet would at least hint at masculinity, strength, and
+vigor. Lo and behold, not one of said qualities emanates from this
+almost schizophrenic carpet representation. This carpet makes one think
+of broken glass shards raining down from the dingy lobby skylights of a
+1970s Eastern Bloc apartment building. Submitted by Sean Doherty, our
+favorite Scot transplanted to Roanoke.<br><br><img src="http://hphotos-snc3.fbcdn.net/hs116.snc3/16346_1283462279439_1016561989_30923699_1019789_n.jpg"><br><br><br></div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-2.274558,53.362858,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MCI - Kansas City International Aiport</name>
+    <description><![CDATA[KC airport (MCI) carpet. Notice the corn rows and square grid patterns. Just says 'Midwest'. Love it!<br><br><img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs119.snc1/4987_1171828448663_1016561989_30546215_3080817_n.jpg"><br>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-94.714165,39.297112,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MDW - Chicago Midway International Airport</name>
+    <description><![CDATA[MDW - Chicago Midway Airport. This carpet screams 'where are the bodies
+buried?'. Me thinks the airport needs to focus on a lighter shade of
+life. Submitted by Juli Pleitner, newly minted MLS director in
+Birmingham, Alabama.<br><br><img style="width:245px" src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs048.snc3/13535_1264422003444_1016561989_30866846_6358782_n.jpg">]]></description>
+    <styleUrl>#style141</styleUrl>
+    <Point>
+      <coordinates>-87.740662,41.788441,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MEL - Melbourne International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/hs265.snc6/179302_1739578882069_1016561989_32028583_4162929_a.jpg"><br><br>MEL - Melbourne International Airport, Australia.  In the spirit of the Reese's Cup commercials - your peanut butter is in my chocolate, no your chocolate is in my peanut butter, this carpet designer merged Google Earth imagery shot over the Alps on a wintery, semi-cloudy day right into his carpet design.  BRILLIANT!!!  Beauty meet simplicity, simplicity meet beauty.  Submitted by Margaret O'Sullivan Bielecki, on her way to/fro New Zealand.  <br></div>]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>144.848495,-37.669693,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MCO - Orlando International Airport</name>
+    <description><![CDATA[Orlando (MCO) carpet. Some type of flower/vine scene. No reference to Disney, huh?<br><img style="width:243px" src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc1/hs130.snc1/5569_1205915660822_1016561989_30678057_4785734_n.jpg"><br>]]></description>
+    <styleUrl>#style144</styleUrl>
+    <Point>
+      <coordinates>-81.308441,28.423260,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MIA - Miami International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs228.snc3/21570_1300968277078_1016561989_30978765_5127988_s.jpg"><br><br>MIA - Miami International Airport. Doesn't this carpet just shout out 'South Beach at 4 AM'. Bass in thumpin', club was jumpin'.... Submitted by Heather Turner, my work wife's best friend since 2nd grade (or WWBFFSSG).</div>]]></description>
+    <styleUrl>#style134</styleUrl>
+    <Point>
+      <coordinates>-80.275612,25.796549,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MKE - General Mitchell International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs536.snc3/30426_1402800382817_1016561989_31238751_6197760_s.jpg"><br><br>MKE - General Mitchell International Airport, Milwaukee, WI.  General Bill Mitchell, father of the US Air Force.  Lived from 1879 to 1936.  Relevant to this carpet - maybe.  Air Force Academy school colors are blue &amp; gray and MKE's carpet colors are blue and gray.  I would like to think Gen. Mitchell is watching proudly over this floor covering.  Submitted by my childhood RO buddy, Sydney Killion Matejka.  </div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-87.903786,42.946873,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MLB - Melbourne International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/198540_1857009857770_1016561989_32174997_710467_s.jpg"><br>MLB - Melbourne Florida Airport.  At last, an airport carpet which exactly meets my expectations!  Location:  Florida.  Carpet says: Florida!  Submitted by a first time iCarpet report - Brittany Walker.  </div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-80.631531,28.097479,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MOB - Mobile Regional Airport </name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs468.snc3/25693_1348291620132_1016561989_31102382_6079540_s.jpg">MOB - Mobile Regional Airport.  Mobile's carpet says "we are a beacon of light in the darkness as the blue waves of humanity crash upon our shores".  I definitely don't understand why Mobile has a lighthouse theme in the carpet but maybe it is not for me to ask 'why'.  Submitted by Matt Fowler, a good friend from Huntsville, AL.  </div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>-88.244225,30.681248,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MSO - Missoula International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1286680799900_1016561989_30930800_5218099_s.jpg"><br><br>MSO - Missoula International Airport. Greens, tans, grays. Mottled pattern. About what you would expect in airport carpet. But Wait! If you look closely enough, a grizzly bear is imprinted in the carpet. At least it looks that way to my somewhat discerning eye. Submitted by Mike Sparr, Goomzee Dude from Missoula.</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-114.082207,46.919678,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MSP - Minneapolis-Saint Paul International Airport</name>
+    <description><![CDATA[A send-in from Minneapolis (MSP) from Dena Pope (one of my cohorts in
+Clareity crime). Looks to me like a big whirlpool emanating heat waves
+- but I could be wrong.<br><img style="width:243px" src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs148.snc1/5489_1186319050919_1016561989_30608851_7584851_n.jpg"><br>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-93.222939,44.882511,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MSY - Louis Armstrong New Orleans International Airport</name>
+    <description><![CDATA[Louis Armstrong International Airport (New Orleans, LA) MSY. Louis is
+definitely representing in this carpet. Submitted by Melissa DelGaudio
+(aka: Startabuzz).<img style="width:243px" src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs060.snc3/14744_1254520835921_1016561989_30837546_7112422_n.jpg">]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-90.264191,29.990921,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAS - Lyndon Pindling International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://hphotos-snc3.fbcdn.net/hs116.snc3/16346_1285760576895_1016561989_30928726_3178063_n.jpg"><br><br>NAS - Nassau Bahamas International Airport. FINALLY, an airport that 'gets it'. Fish and Fauna in an aqua-blue ocean of water. Welcome to Paradise! Welcome to Vacation! Welcome to leaving your troubles behind. Welcome, Friends, Welcome! Submitted by Victor Dandridge, recently promoted to full iCarpeteer.</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-77.466316,25.049952,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NRT - Narita International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1279049169114_1016561989_30910761_5675307_s.jpg">NRT -  Narita International Airport, Japan.  Home of Bobby Fischer's 2004 failed Great Escape to Manila.  Red &amp; blue splatters on grid lines , leaves intertwined in camouflage nets - this carpet evokes a 'take no prisoners' authoritarian stance towards air travel.  Submitted by Lin McIntosh, world traveler from Hawaii.  <br><br></div>]]></description>
+    <styleUrl>#style131</styleUrl>
+    <Point>
+      <coordinates>140.388245,35.773552,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>OAK - Oakland International Airport</name>
+    <description><![CDATA[Gregg Robertson's very first submission to ACoW.  Oakland infuses a four square approach with a sweet red stripe.<br><img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1233800397923_1016561989_30773431_288526_n.jpg"><br>]]></description>
+    <styleUrl>#style157</styleUrl>
+    <Point>
+      <coordinates>-122.225471,37.711666,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>OGG - Kahului Airport, Maui, HI</name>
+    <description><![CDATA[<div dir="ltr">Kahului Airport (OGG) - Maui, HI. The typical Hawaiian theme of flowers
+and fauna. But if you stare hard enough the flowers look a lot like Uga
+- the Georgia Bulldog mascot. Maybe that is why the airport is called
+"OGG"? Submitted by Scott Steres, a friend of a childhood friend and a
+new friend of mine.<br><br><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs055.snc3/14267_1261843978995_1016561989_30858518_917994_s.jpg"><br></div>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>-156.451752,20.887857,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>OKC - Will Rogers World Airport</name>
+    <description><![CDATA[OKC - Will Rogers<img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc4/hs393.snc4/45595_1527117810675_1016561989_31578640_8381692_s.jpg"> World Airport.&nbsp; Casting of the moniker of 'international' to embrace the term 'world' continues to show how proud Oklahomans are of their state.&nbsp; From the state motto of 'Oklahoma is OK' to the shouted 'Boomer Sooner' between strangers clad in OU gear, Okies hold their heads high.&nbsp; So why the corn-row carpet tiles in the first place 'world' travelers traipse?&nbsp; OK, I am confused!.&nbsp; Submitted by me.]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-97.596916,35.395645,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>OMA - Eppley Airfield</name>
+    <description><![CDATA[Square fields of flowing wheat, straight rows of corn and soybeans. Simple yet intriguing....<br><img style="width:243px" src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc1/hs124.snc1/5329_1184053434280_1016561989_30599358_5184416_n.jpg"><br>]]></description>
+    <styleUrl>#style173</styleUrl>
+    <Point>
+      <coordinates>-95.888329,41.301796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ONT - Ontario International Airport</name>
+    <description><![CDATA[Ontario (ONT), CA from Steve Byrd. This carpet reminds me of the 'how
+many squares can you make without crossing over another line?'.<br><img style="width:243px" src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs221.snc1/6816_1239975632300_1016561989_30792659_6836687_n.jpg"><br>]]></description>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>-117.592850,34.053940,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ORD - Chicago O&#39;Hare International Airport</name>
+    <description><![CDATA[<img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1278295310268_1016561989_30908609_4059745_s.jpg"><br><br>O'hare on a blurry morning.  Carpet, is at best, called 'needs replacing' or 'icky for short'.<br><img style="width:243px" src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs144.snc1/5329_1184026233600_1016561989_30599323_3767849_n.jpg"><br>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-87.901093,41.979782,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ORF - Norfolk International Airport</name>
+    <description><![CDATA[<img style="width:245px" src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs228.snc3/21570_1303226893542_1016561989_30986111_5857085_n.jpg"><br>ORF - Norfolk International Airport. Inside this airport, a carpet of
+black and faint orange speaks of progression, of a mottled train track
+of efficiency, of military precision in its columnar function.
+Submitted Patti Chiacchierro (pronounced Taco Bell), a good friend from
+Hilton Head Island.]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-76.205765,36.898670,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PBI - Palm Beach International Airport</name>
+    <description><![CDATA[Palm Beach International aka West Palm (PBI)  carpet is about as expected with floral patterns galore. It screams 'FLORIDA'!<br><img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1236519865908_1016561989_30782452_681332_n.jpg"><br>]]></description>
+    <styleUrl>#style128</styleUrl>
+    <Point>
+      <coordinates>-80.091019,26.681822,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PEK - Beijing Capital International Airport PEK</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs202.snc3/20970_1292756231782_1016561989_30949730_1777081_s.jpg">Beijing International Airport. Symbols, symbols, symbols in the carpet. Fish, pagodas, musical instruments teem in this artistic representation of Peking. Submitted by Joshua Darnell on his trip around the world.<br><br></div>]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>116.604080,40.075050,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PEN - Penang International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs602.snc3/31726_1438439953784_1016561989_31326481_5527927_s.jpg"><br><br>PEN - Penang International Airport.  Location: Malaysia.  The airport serves Georgetown, first foothold of the British Empire in South East Asia and now a UNESCO World Heritage site. On the other hand, this carpet unfortunately immediately takes me to the current crisis in the Gulf of Mexico.  Black oil, the sheen of spilled crude presents on ominous cloud over crystal blue waters formerly teeming with life.  Evil is clouding over Good in this carpet battle.  Sadness prevails.  Submitted by Nick Allan, world traveler extraordinaire!  </div>]]></description>
+    <styleUrl>#style135</styleUrl>
+    <Point>
+      <coordinates>100.263634,5.289725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PHX - Phoenix Sky Harbor International Airport</name>
+    <description><![CDATA[The carpet that started it all. Sky Harbor (PHX), Phoenix Arizona.
+Airplane was late due to a mechanical issue (USAIR - fail) and I was
+headed towards missing my connection in Charlotte for the final turn to
+Roanoke. Missed connection equals overnight in Charlotte, argghhh!.
+Roberta Flack's sultry voice comes over the loudspeakers belting out
+'Where is the Love', argghhh!. Look down at my shoes to see airplanes
+going in a circle designed right into the carpet. Geez, THANKS just
+what I want to see in an airport!<br><img style="width:243px" src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc1/hs211.snc1/7830_1224993577758_1016561989_30743268_3365018_n.jpg"><br>]]></description>
+    <styleUrl>#style151</styleUrl>
+    <Point>
+      <coordinates>-112.022949,33.436886,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PHX - Phoenix Sky Harbor International Aiport</name>
+    <description><![CDATA[Phoenix (PHX) at o'dark empty airport early.<br><img style="width:243px" src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc1/hs024.snc1/2350_1108982757560_1016561989_30381004_2335163_n.jpg">]]></description>
+    <styleUrl>#style155</styleUrl>
+    <Point>
+      <coordinates>-112.011795,33.435310,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PIA - Greater Peoria Regional Airport</name>
+    <description><![CDATA[Peoria, IL (PIA) airport carpet. An absolute mishmash of colors and
+effects. Zach Scott, my latest iCarpet report, must have thought I was
+looking for 'stained airport carpets of the world'. Thanks Zach for the
+newest addition.<img style="width:243px" src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16341_1248554166758_1016561989_30818367_3057116_n.jpg">]]></description>
+    <styleUrl>#style174</styleUrl>
+    <Point>
+      <coordinates>-89.684654,40.663712,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PIT - Greater Pittsburgh International Airport</name>
+    <description><![CDATA[Pittsburgh, PA (PIT) - a very confusing carpet, indeed.  Thanks to Kevin Greene for this submission.<img style="width:243px" src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc1/hs264.snc1/9125_1244836833827_1016561989_30807517_799879_n.jpg">]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-80.234360,40.489391,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PSP - Palm Springs International Airport</name>
+    <description><![CDATA[PSP - Palm Springs Airport.&nbsp; Short code obviously stolen by Sony.&nbsp; Welcome to the desert!&nbsp; We have created this carpet to blend in with any sand tracked to/fro from our beautiful airport.&nbsp; Please keep it moving and, again, enjoy your stay in Palm Springs!&nbsp; Signed - PSP tourist bureau.&nbsp; Submitted by Glenn Christoph, hardened USC fan. <img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs156.snc3/18370_1330642698920_1016561989_31059040_5483341_s.jpg"><br>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-116.509033,33.823345,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PQC - Phu Quoc Airport, Vietnam</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/200226_1797946181215_1016561989_32125263_3071209_s.jpg"><br><br>PQC - Phu Quoc island. Vietnam's largest island, famed for its miles of deserted beaches and production of fish sauce. Formerly a major prison complex built to hold captured Viet Cong solidiers.  Oddly, nothing about this carpet invokes images of deserted beaches nor fish sauce.  Rather this carpet takes me to Bedouin camps in the Sahara.  Really odd...  Submitted by Nick Allan, my most prolific airport carpet reporter</div>]]></description>
+    <styleUrl>#style158</styleUrl>
+    <Point>
+      <coordinates>103.965202,10.226440,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PVG - Shanghai Pudong International</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs395.snc3/24034_1381498730289_1016561989_31185365_6115803_s.jpg"><br>PVG - Shanghai Pudong International Airport. Not sure why this carpet reminds me of a stained glass montage in a church. Maybe it is the fish / football shapes?  Submitted by Nick Allan, a worldly traveler and new-found friend. <br></div>]]></description>
+    <styleUrl>#style163</styleUrl>
+    <Point>
+      <coordinates>121.800949,31.148817,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RAP - Rapid City Regional Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs136.snc3/18370_1330632018653_1016561989_31058994_5540653_s.jpg"><br><br>RAP - Rapid City Airport.  Triangles meet flora in this mashup of greens, purples, and tans.  Both designers would have conniptions seeing their individualistic expressions jammed so thoughtlessly against each other.  Submitted by fellow Cruiserhead, Barry McCoin. </div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>-103.060272,44.038784,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RDU - Raleigh-Durham International Airport</name>
+    <description><![CDATA[Raleigh, NC (RDU) - the Triangle! But this carpet says "this is a test
+of the emergency broadcast system, this is only a test". Submitted by
+Lindsey Thomas.<img style="width:243px" src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs080.snc3/14744_1255478939873_1016561989_30840043_5418820_n.jpg">]]></description>
+    <styleUrl>#style161</styleUrl>
+    <Point>
+      <coordinates>-78.790512,35.870552,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RIC - Richmond International Airport</name>
+    <description><![CDATA[<div dir="ltr">Richmond International Airport (RIC).  I can't decide between a broken pinwheel or a couple of trout cooking in a frying pan.   Submitted by the Real Estate Zebra - Daniel Rothamel.<br><br><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs075.snc3/14267_1260362021947_1016561989_30854783_1470022_s.jpg"><br></div>]]></description>
+    <styleUrl>#style147</styleUrl>
+    <Point>
+      <coordinates>-77.333694,37.507462,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RNO - Reno/Tahoe International</name>
+    <description><![CDATA[Reno (RNO) welcomes with a blanket of leaves.  I am confused.<img style="width:243px" src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1231694385274_1016561989_30766900_8239851_n.jpg">]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>-119.769341,39.497284,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ROA -  Roanoke Regional Airport</name>
+    <description><![CDATA[Star City of the South has airport carpet with.... Wait for it.... Stars!<br><img style="width:243px" src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc1/hs113.snc1/4831_1166752761774_1016561989_30526691_2020107_n.jpg">]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-79.978668,37.325737,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ROC - Greater Rochester International Aiport</name>
+    <description><![CDATA[From an Airport-Carpet Reporter - Live from Rochester, NY comes the latest installment of Airport Carpet of the world.<br><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc1/hs130.snc1/5569_1196506265593_1016561989_30642970_6089851_n.jpg"><br>]]></description>
+    <styleUrl>#style148</styleUrl>
+    <Point>
+      <coordinates>-77.672653,43.121536,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RST - Rochester International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc4/hs109.snc4/35820_1471905110392_1016561989_31423533_646636_s.jpg">RST - Rochester International Airport.  A slight twist on airport carpets as this is a picture of, aside from his toe, the Rochester FBO for private airplanes.  Snazzy in its execution, it sure looks like like the local FBO manager went to Lowe's and bought up their overstock of berber carpet.  Bet that carpet sees Stanley Steamer at least every 90 days.  Submitted by Michael Wurzer, President/CEO of FBS. </div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-92.498886,43.907223,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SAN - San  Diego International Airport</name>
+    <description><![CDATA[San Diego (SAN) - looks like bad fencing or maybe a grate over a storm
+drain. Tks to Cindy Huntington Plachecki (my dear friend from RO) for
+the addition.<img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc1/hs264.snc1/9125_1242063404493_1016561989_30797692_7387646_n.jpg"><br><br><img style="width:245px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1280062954458_1016561989_30913698_2877869_n.jpg"><br>]]></description>
+    <styleUrl>#style137</styleUrl>
+    <Point>
+      <coordinates>-117.201805,32.736027,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SBP - San Luis Obispo County Regional Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs208.snc3/21570_1307944731485_1016561989_30999290_2860639_s.jpg"><br><br>SBP - San Luis Obispo Regional Airport.  This carpet looks like the data points for a major seismic event along the San Andreas Fault.  Mottled blues, grays, and greens are almost noisy in this design (or lack thereof).  Submitted by Victor Lund, industry colleague and friend. </div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>-120.642166,35.241116,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SDA - Baghdad International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img style="width:245px" src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs228.snc3/21570_1304034713737_1016561989_30988183_7541304_n.jpg"><br><br>SDA - Baghdad International Airport, Iraq. I was seriously hoping this beautiful purple tapestry would lead me to Mecca or at least point in its general direction.  But, lo and behold, it takes a hard left turn and goes through Security.  Dang....   Submitted by the yet to be named boss of Nick Allan, a world traveler and compadre of Sean Doherty.</div>]]></description>
+    <styleUrl>#style175</styleUrl>
+    <Point>
+      <coordinates>44.235279,33.264168,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SEA - Seattle-Tacoma International Airport</name>
+    <description><![CDATA[Contrary to popular talk, Seattle (SEA) has carpet.  Mundane, somewhat dark but nonetheless - airport carpet.<br><br><img style="width:243px" src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc1/hs148.snc1/5489_1189342966515_1016561989_30619297_3433675_n.jpg"><br>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-122.309586,47.447708,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SEA - Seattle-Tacoma International Airport</name>
+    <description><![CDATA[Seattle (SEA) terminal S carpet.  It's late so my witticisms are failing me.  Carry on....<img style="width:243px" src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc1/hs257.snc1/10425_1246398872877_1016561989_30811559_179348_n.jpg">]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>-122.307701,47.439930,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SFO - San Francisco International Airport</name>
+    <description><![CDATA[San Francisco (SFO). If you squint and stare intently at the picture,
+all 13 micro-climates are represented in various fashion in this
+carpet. submitted by Lin McIntosh from Honolulu.<img style="width:243px" src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1236819513399_1016561989_30783186_5822749_n.jpg"><br><br><br>]]></description>
+    <styleUrl>#style156</styleUrl>
+    <Point>
+      <coordinates>-122.376190,37.618584,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SGN - Tan Son Nhat International Airport (SGN)</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/200144_1822211507833_1016561989_32156171_2286011_s.jpg"><br>SGN - Tan Son Nhat International Airport , Ho Chi Minh City, Vietnam.  Located on the right bank of the Saigon River, a tributary of the Dong Nai, Ho Chi Minh City is the largest city, the greatest port, and the commercial and industrial center of Vietnam.  Its airport carpet falls short of greatness as it resembles, at best, a knit sweater.  Submitted by Nick Allan, my Asia carpet reporter.  <br></div>]]></description>
+    <styleUrl>#style149</styleUrl>
+    <Point>
+      <coordinates>106.651947,10.818889,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SIN - Changi International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc7/s320x320/379854_2531265193732_1016561989_32821480_738851336_n.jpg"><br><br>SIN - Changi Airport, Singapore, Malaysia.  Festooned (yes 'festooned') with almost uniform size circles surrounded by rectangular lines, this carpet reminds me a bit of backgammon and a bit of a horizontal connect four.  Kudos to the Malaysians for adding that one red circle to liven up this piece of art.  Submitted by Neal Anderson, traveling husband of Rebecca Sweeney Anderson - his first airport carpet submission ever!  BTW, I think Vegas wants their airport identifier back.  </div>]]></description>
+    <styleUrl>#style132</styleUrl>
+    <Point>
+      <coordinates>103.989098,1.356800,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SIN - Singapore Changi International Airport</name>
+    <description><![CDATA[<div dir="ltr">Singapore Changi International Airport (SIN).  As of this point in the gallery history, this carpet is without a doubt the most beautiful &amp; unique floor covering.  Submitted by Robyn Watkins Dubinsky, a childhood friend of my wife.<br><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs048.snc3/13535_1262926766064_1016561989_30862105_2469842_s.jpg"><br><br></div>]]></description>
+    <styleUrl>#style150</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value>SIN - Singaporte Changi International Airport</value>
+      </Data>
+      <Data name="Address">
+        <value>75 Airport Blvd #01-01 Changi Airport 819664, Singapore</value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value>Hotel</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>103.984810,1.348857,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SJC - Norman Y. Mineta San Jose International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs208.snc3/21570_1301347806566_1016561989_30980169_7925005_s.jpg"><br><br>SJC - Norman Y. Mineta San Jose International Airport.  Carpet tiles in greens, reds, and tans.  Some type of plant growth which brings up memories of BART (the local train system).  Not sure how the omni-directional placement decision was made but it looks quite funky.  Submitted by Heather Turner, my work wife's best friend since 2nd grade (or WWBFFSSG).</div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>-121.925903,37.366695,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SJO - Aeropuerto Internacional Juan Santamaria</name>
+    <description><![CDATA[<div dir="ltr">The swirls of the San Jose, Costa Rica airport carpet hint at the flowing sands of the beach plus the intrinsic romance of Latin culture. Pura Vida!!<br><img style="width:243px" src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc1/hs124.snc1/5329_1183868429655_1016561989_30598859_8351888_n.jpg"><br></div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-84.141029,9.957354,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SJU - Luis Munoz Marin International Airport</name>
+    <description><![CDATA[San Juan, PR (SJU). Not sure why it conjures up memories of high school
+trig? Submitted by Cathy Duckwall Dupont and her daughter Sarah.<img style="width:243px" src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs050.snc3/13742_1256662649465_1016561989_30843218_4197221_n.jpg">]]></description>
+    <styleUrl>#style169</styleUrl>
+    <Point>
+      <coordinates>-66.011696,18.437925,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SLC - Salt Lake City International Airport</name>
+    <description><![CDATA[SLC Concourse C carpet. I am sure a message from Joseph Smith to
+Brigham Young resides in this carpet but I, for the life of me, am not
+enlightened enough to recognize it.<img style="width:243px" src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1231292695232_1016561989_30765466_6961328_n.jpg">]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-111.969566,40.782883,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SNA - John Wayne Airport</name>
+    <description><![CDATA[<div dir="ltr">Carpet in John Wayne Airport (SNA). Definitely a good way to hide dirt.<img style="width:243px" src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc1/hs112.snc1/4821_1168852894276_1016561989_30534726_6814514_n.jpg"><br></div>]]></description>
+    <styleUrl>#style133</styleUrl>
+    <Point>
+      <coordinates>-117.864929,33.679356,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SPI - Abraham Lincoln Capital Airport</name>
+    <description><![CDATA[Springfield, IL (SPI) - Abraham Lincoln Capital Airport. I think I see
+Abe's trademark beard in the carpet. submitted by Scott Lovdahl, one of
+my Beta brothers from ISU.<img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc1/hs244.snc1/9125_1244652029207_1016561989_30807076_6938326_n.jpg">]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-89.681908,39.838596,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SPS - Wichita Falls Muni Airport-Sps</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-b.ak.fbcdn.net/hphotos-ak-ash2/hs193.ash2/45578_1527113890577_1016561989_31578618_1834179_s.jpg">This carpet is very fair representation of the mottled landscape of North Central Texas.  Mottled as in layers of browns and brownish greens running together for mile after mile, unbrokend by the slighest change in elevation.  Submitted by me. </div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-98.493446,33.961056,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>STL - Lambert-St. Louis International </name>
+    <description><![CDATA[Another Midwest selection delivered by Eric Hoglund (my Clareity
+cohort). St. Louis (STL) Std stuff including straight rows of crops, a
+few center-pivot irrigation fields, and the requisite hometown airport.
+What do you see?<br><img style="width:243px" src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc1/hs231.snc1/7830_1233525431049_1016561989_30772127_6675222_n.jpg"><br>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-90.384354,38.748730,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SYD - Sydney Airport</name>
+    <description><![CDATA[SYD, Sydney Australia (Pullman clan addition). Definitely says "G'day
+mate.... come and have a gander at my collection of dinky-di Australian
+airport carpets"<br><img style="width:243px" src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc1/hs211.snc1/7830_1234159206893_1016561989_30774691_4537915_n.jpg"><br>]]></description>
+    <styleUrl>#style160</styleUrl>
+    <Point>
+      <coordinates>151.176163,-33.945354,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TCG - Sultan Mahmud Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/249405_1990394352299_1016561989_32354866_2976623_s.jpg">TCG -  Kuala Terengannu, capital of the Malaysian state of Terengannu. Not much carpet around but this is at the entrance way as you go in. This mashed down red, gray, and white carpet doesn't scream Asia to me at all but rather the old USSR - specifically East Germany circa 1989.  Come on Malaysia, step it up.  Submitted by Nick Allan, my world traveling carpet reporter. </div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>103.106392,5.381667,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TPA - Tampa International Airport</name>
+    <description><![CDATA[Tampa (TPA) airport carpet. Pink and blue target-like shapes infused
+with ribbons. Brings back vivid memories of the old arcade game Missile
+Command.<br><img style="width:243px" src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc1/hs211.snc1/7830_1230934646281_1016561989_30764691_849596_n.jpg"><br>]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>-82.536674,27.981062,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TPE - Taiwan Taoyuan International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs156.snc3/18370_1330638218808_1016561989_31059038_5625937_s.jpg">TPE - Taipei Taoyuan International Airport.  "Off the Grid"....   I see an Etch-A-Sketch artist in this carpet.  Or a bamboo mat.  Welcome to Taiwan, please take your shoes off prior to passing through customs.  Submitted by Scot Lovdahl, my Beta brother from ISU days.  </div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>121.232330,25.079788,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TUS - Tucson International Airport</name>
+    <description><![CDATA[Tucson Airport (TUS) Concourse B. A blue lake surrounded by mountainous
+terrain with a variety of flowing streams and rivers. Or not...
+Submitted by Troy Feeken from Fargo, ND.<img src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc3/hs080.snc3/14744_1249370867175_1016561989_30820203_7531530_n.jpg">]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-110.951614,32.121548,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TVC - Cherry Capital Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-ash1/hs470.ash1/25790_1358254349194_1016561989_31126804_4324695_s.jpg"><br>TVC - Cherry Capital Airport, Traverse City, Mi.  Cherry Capital airport?  A world reknowned festival billed as the "Awesomely Awesome and Fun" 84th National Cherry Festival.  And the carpet representation looks like a 1980s Japanese elementary school mimeograph machine - press hard as you are making three copies.  Submitted by Kevin Greene, father of the Greene Beans of Jacksonville, FL. </div>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>-85.575027,44.733433,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TYS - McGhee Tyson Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-c.ak.fbcdn.net/hphotos-ak-snc3/hs491.snc3/26865_1367179612320_1016561989_31147623_7334814_s.jpg"><br><br>TYS - McGhee Tyson Airport, Knoxville, TN.  <br><br>Nothing says Knoxville like a carpet with random lines, goldfish symbols, and oak leaves all in white/gray contrast.  Home of University of Tennessee &amp; Oak Ridge National Labs (think plutonium) but no honorable mentions in this carpet.  Submitted by Paul Hethmon, Knoxville resident and Clareity Security guru.  </div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-83.990807,35.806431,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>VCA - Binh Thuy Air Base, Can Tho, Vietnam</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-ash4/198255_1798812602875_1016561989_32126149_7147263_s.jpg"><br>VCA -  Can Tho, Vietnam.  Formerly called the Binh Thuy Air Base on the Mekong Delta.  Bar charts. Lots of bar charts.  1970s-80s green terminal screens.  In simpler words, just plain ugly.  Submitted by Nick Allan, world traveler.  </div>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>105.711945,10.085278,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>VIA - Valley International Airport</name>
+    <description><![CDATA[<h3><span><font style="font-weight:normal" size="2">VIA
+- Valley International Airport - Harlingen, TX&nbsp; A patchwork of purples,
+oranges, greens, and </font><font style="font-weight:normal" size="2">grays. Why does 'fiesta grande' come immediately
+to mind? Submitted by my lifelong friend, David Stanley of Houston, TX
+(formerly Red Oak, IA)</font></span></h3><img src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1275006308045_1016561989_30899895_4733204_s.jpg">]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-97.663101,26.219530,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>WEF - Weifang Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs335.snc3/29366_1448984417389_1016561989_31357667_6722925_s.jpg">WEF - Weifang in the Shandong Province of China.   Small Chinese city of some 2 million people with about 8.5 million living in the immediate vicinity.  Cool: Home to one of the world’s major kite festivals and the self-proclaimed capital of Kite flying in China and beyond.  Not cool: Home to the Weihsien Internment Camp which was the largest Japanese civilian internment camp in China during WWII. Liberated by the Americans on 17th August 1945.  Nick Allan's father was in the camp and he accompanied him back to it 65 years after his release.  Submitted by Nick Allan, world traveler.  </div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>119.119949,36.641514,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>XNA - Northwest Arkansas Regional</name>
+    <description><![CDATA[<h3 style="font-weight:normal;font-family:arial,sans-serif"><font size="2">Northwest
+Arkansas Regional (XNA). A cacophony of smiles infused in a sea of
+blues and greens. Submitted by my new friend Jeff Israel on his way to
+NAR2009 in San Diego.</font></h3><img src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs075.snc3/14267_1260218258353_1016561989_30854389_1618598_s.jpg"><br><br>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <ExtendedData>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-94.297112,36.275257,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YCG - Castlegar Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs449.snc3/25764_1351925910987_1016561989_31109812_1135735_s.jpg"><br><br>YCG - Castlegar Airport.  Also known as West Kootenay Airport in British Columbia.  Not sure why I am suddenly flooded with memories of those little icing packets inside the roll of bake at home cinnamon rolls.  Or is this the printout from the ANSS for a recent earthquake?  Submitted by Kerry Rakuson, a good Canadian friend and the first female hockey goalie I have ever known. </div>]]></description>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>-117.632225,49.295555,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YEG Edmonton International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs228.snc3/21570_1311426858536_1016561989_31007856_5847677_s.jpg"><br><br>YEG - Edmonton International Airport.  What do you do on cold winter days in Edmonton?  Why you rally the local crochet league to knit a carpet for the airport!  Submitted by Kerry Rakuson, of the Canadian Rakusons.</div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>-113.602997,53.316700,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YOW - MacDonald-Cartier International Airport</name>
+    <description><![CDATA[<h3><span><img src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs511.snc3/26865_1369112060630_1016561989_31152361_7528936_s.jpg">YOW - Ottawa International Airport.  Capitol of 
+Canada.  A dark green, dark gray squiggly lined presentation with an 
+inlay of odd-shaped maple leaves.  Soothing in an esoteric happenstance.
+  Submitted by me.</span></h3>]]></description>
+    <styleUrl>#style142</styleUrl>
+    <Point>
+      <coordinates>-75.668655,45.322990,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YQM - Greater Moncton International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/217538_1860667629212_1016561989_32178932_821123_s.jpg"><br><br>YQM - Moncton International Airport, Moncton, New Brunswick, CA.  The carpet is functional but not inspiring.  Would have expected at least a maple leaf, a hockey stick, some type of dude decked out in a toque.  Eh...  Submitted by Kerry Rakuson, one of Moncton's newest residents and leader of all things real estate.  </div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-64.688774,46.116177,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YUL - Montreal-Pierre Elliott Trudeau International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16346_1283614563246_1016561989_30923969_3915281_s.jpg">YUL - Montréal–Pierre Elliott Trudeau International Airport. Ahh, Montréal! Why, oh why does this carpet immediately bring to mind an outside ice rink. The sun setting low in the neighboring trees casts a dark gold almost bronze pallor on the ice. Pucks strewn across the ice intertwined with snowballs from a recent... neighorhood battle. Submitted by Darcy Patch, LPS' marketing guru.<br><br></div>]]></description>
+    <styleUrl>#style117</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value>Montreal-Pierre Elliott Trudeau International Airport</value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.741653,45.468979,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YVR - Vancouver International Airport</name>
+    <description><![CDATA[Vancouver Airport Carpet (YVR)  Terminal carpet. While Vancouver has a rich history, logging wasn't a
+major part of its industry. With that said, this carpet evokes images
+of a 1800s river jammed with oak &amp; chestnut trees heading towards
+the mill. Submitted by Lin McIntosh on her trip off the continent.
+Mahola, Lin!<br><br><img src="http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1273153221719_1016561989_30892797_2733233_s.jpg"><br><br><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs096.snc3/16346_1273153181718_1016561989_30892796_7037489_s.jpg"><br><br>The airport lounge version. Loungers beware as this carpet is emitting
+subliminal messages embedded in its rich choice of blues, browns, and
+tans. The message to me is 'we ran out of money for the lounge so we
+shopped at the discount Carpet Emporium. Submitted by Ian Watt of the
+Canadian Watts.<br>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-123.186607,49.190567,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YWG - Winnipeg James Armstrong Richardson International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img style="width:245px" src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs777.snc4/67782_1588355821587_1016561989_31717080_6886737_n.jpg">YWG - Winnipeg James Armstron Richardson International Airport.  This carpet honors Winnipeg's distinction as the smack dab center of North America with its crossroads and a big orange-yellow square in the center. Winnipeg is building a new terminal to open early 2011 - new carpet to follow.  Submitted by me.</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-97.235001,49.901943,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YXE - Saskatoon John G. Diefenbaker International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="https://fbcdn-photos-a.akamaihd.net/hphotos-ak-snc6/259886_1992203717532_1016561989_32356694_7748139_s.jpg">YXE - Saskatoon, Saskatchewan, Canada, North America, Planet Earth.  Why do I see Taurus, the bull constellation embedded in this carpet. Subliminal design by the carpet designer or just too much caffeine by the interpreter.  Submitted by Kerry Rakuson formerly of Nelson now of Moncton.  </div>]]></description>
+    <styleUrl>#style170</styleUrl>
+    <Point>
+      <coordinates>-106.690262,52.170052,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YXC - Cranbrook/Canadian Rockies International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img style="width:245px" src="http://photos-b.ak.fbcdn.net/hphotos-ak-snc3/hs228.snc3/21570_1311435538753_1016561989_31007863_858661_n.jpg">YXC - Canadian Rockies International Airport.  Nothing says the ROCKIES like this carpet.  Errr, no..  Where are the mountains?  Where are the snow-capped peaks?  Elk, deer, moose, bear.. nada.  Submitted by local resident, Kerry Rakuson. </div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>-115.781944,49.612221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YYC - Calgary International Airport</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs208.snc3/21570_1309455809261_1016561989_31002115_3366739_s.jpg"><br><br>YYC - Calgary International Airport.  STAMPEDE!!  Loud and Proud from the home of Calgary Stampede.  This carpet says flyfishingmountainsvalleysCanadahotcoldsnowrainsunshine...  Submitted by Kerry Rakuson, the first female hockey goalie I have ever met.  </div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value>YYC - Calgary International Airport</value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-114.012383,51.132832,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>YYJ - Victoria International Airport</name>
+    <description><![CDATA[Victoria, BC carpet.  Fishing nets floating adrift? Submitted by me.<img style="width:243px" src="http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs116.snc3/16341_1247832708722_1016561989_30815346_5296575_n.jpg">]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>-123.430534,48.647766,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

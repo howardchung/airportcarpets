@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>The Carpeteer's Reference</title>
+    <link rel="stylesheet" href="public/airportcarpets.css">
+    <link rel="stylesheet" href="../howard.css">
+    <meta charset="utf-8">
+    <script src='https://code.jquery.com/jquery-latest.js'></script>
+    <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAJ8UsZZGQBLQyF5ln0MazpYp664C9fGZE"></script>
+    <script src='public/airportcarpets.js'></script>
+</head>
+
+<body>
+    <div class="container">
+        <nav class="hoefler" role="navigation">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <h1>The Carpeteer's Reference</h1>
+                    <p>Carpeteer: <i>n.</i> One with an interest in the floor coverings of the world's airports.</p>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a data-id="map" href="#">Map</a>
+                        </li>
+                        <li><a data-id="quiz" href="#">Quiz</a>
+                        </li>
+                        <li><a data-id="about" href="#">About</a>
+                        </li>
+                    </ul>
+                </div>
+                <!--/.nav-collapse -->
+            </div>
+            <!--/.container-fluid -->
+        </nav>
+        <div>
+            <div id="map">
+                <div id="map-canvas"></div>
+            </div>
+            <div class="content" id="quiz">
+                <div class="progress">
+                    <p>Correct:
+                        <span id="correct">
+                    </span>
+                    </p>
+                    <p>Incorrect:
+                        <span id="incorrect">
+                    </span>
+                    </p>
+                    <p>Remaining:
+                        <span id="remaining">
+                    </span>
+                    </p>
+                </div>
+                <div id="display"></div>
+                <div id="options"></div>
+                <div id="answer"></div>
+                <br>
+                <button class='button-styled' id='continue'>Continue&raquo;</button>
+            </div>
+            <div class="content" id="about">
+                <p>The art of carpeteering originates with bored airport travelers.</p>
+                <p>It began when some photographed the floor coverings of the places they were waiting.</p>
+                <p>Here on this site, images taken by travelers worldwide are exhibited.</p>
+                <img class="medium-img" src="https://lh5.googleusercontent.com/-AgMVdmR_ncA/VFvgZ7K1XGI/AAAAAAAB3CU/yEk5Jjvfa6k/w842-h1122-no/IMG_20131214_124836.jpg" alt="PDX" />
+                <p>The world-famous carpet at Portland International Airport (PDX)</p>
+                <p>Feedback on this site is welcomed, as well as submissions for more images of airport floor coverings.</p>
+                <a href="mailto:howardc93@gmail.com">Email</a>
+            </div>
+        </div>
+        <hr>
+
+        <footer>
+            <p>Data and descriptions from <a href="http://carpetsforairports.com">Carpets for Airports.</a>
+                <p>
+        </footer>
+    </div>
+</body>
+
+</html>

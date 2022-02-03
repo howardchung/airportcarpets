@@ -1,0 +1,72 @@
+.carpet {
+}
+#map-canvas {
+    height:700px;
+    width:900px;
+    margin: auto;
+}
+.content {
+    display:none;
+}
+body {
+    text-align:center;
+    width: 80%;
+    margin: auto;
+}
+#quiz {
+    text-align:left;
+    width: 80%;
+    margin:auto;
+}
+.button-styled {
+    background-color:#7892c2;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    border:1px solid #4e6096;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:arial;
+    font-size:19px;
+    padding:12px 37px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #283966;
+    display:none;
+}
+.button-styled:hover {
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#476e9e', endColorstr='#7892c2', GradientType=0);
+    background-color:#476e9e;
+}
+.button-styled:active {
+    position:relative;
+    top:1px;
+}
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+.progress {
+    float:right;
+}
+.small-img {
+    height:150px;
+}
+.medium-img {
+    height:300px;
+}
+.infoWindow{
+    color:#000;
+}
